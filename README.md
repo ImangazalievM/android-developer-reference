@@ -100,12 +100,14 @@
 
 # Android Blogs & Resources
 
+### Blogs
+
 - https://android-developers.googleblog.com
 - https://medium.com/androiddevelopers
 - https://blog.stylingandroid.com
 - https://proandroiddev.com
 - https://medium.com/mindorks
 
-
+### Digests
 - https://androidweekly.net
 - https://android-arsenal.com/
