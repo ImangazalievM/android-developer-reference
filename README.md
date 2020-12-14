@@ -97,3 +97,15 @@
 - Linux administration
 - Docker-containers
 - Testing farm
+
+# Android Blogs & Resources
+
+- https://android-developers.googleblog.com
+- https://medium.com/androiddevelopers
+- https://blog.stylingandroid.com
+- https://proandroiddev.com
+- https://medium.com/mindorks
+
+
+- https://androidweekly.net
+- https://android-arsenal.com/
