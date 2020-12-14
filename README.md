@@ -2,17 +2,17 @@
 
 # Common
 - SOLID
-- Паттерны GoF
-- Структуры данных
-- Алгоритмы:
- - Оценка сложности алгоритма
+- GoF patterns
+- Data structures
+- Algorithms:
+  - Algorithm complexity estimating
 
 # Java
 - Java Core SDK
 - Concurrency and Multithreading
 - JVM
- - Java Memory Model
- - Garbage Collector
+  - Java Memory Model
+  - Garbage Collector
 
 # Kotlin
 - Kotlin Coroutines: Scopes, Cancelling
@@ -29,37 +29,36 @@
  - Activity Window, Insets
  - Multiwindow 
 - Activity и Intent:
- - Launch mode
- - Intent flags
- - устройство Intent
-- Устройство и методы FragmentManager-а, исходный код
- - Процесс вставки фрагмента в контейнер
-- Работа сервисов "под капотом"
+  - Launch mode
+  - Intent flags
+- FragmentManager
+  - FragmentManager under the hood
+- Services
+  - Services under the hood
 - Notifications, Channels
 - MediaSessions
 
 ## Android UI
 - App styling
-- Views
- - Custom views
- - View Outline
- - Android Canvas
-  - 
+- **Views**:
+  - Custom views
+  - View Outline
+  - Android Canvas
 - **Animations:**
  - Android Transitions
- - ValueAnimator and ObjectAnimator
+  - ValueAnimator and ObjectAnimator
 - Material Components
 - **Android Support**:
- - CoordinatorLayout, AppBarLayout
+  - CoordinatorLayout, AppBarLayout
 - **RecyclerView:**
- - Adapter
- - ItemDecoration
- - SnapHelper
- - LayoutManager
- - ItemAnimator
- - DiffUtil
- - State Restorration Policy
- - ItemAnimator
+  - Adapter
+  - ItemDecoration
+  - SnapHelper
+  - LayoutManager
+  - ItemAnimator
+  - DiffUtil
+  - State Restorration Policy
+  - ItemAnimator
 
 #  Jetpack
 - Compose
@@ -80,9 +79,9 @@
 - Make-files syntax
 - Data structures: vector, map, etc
 - Standart library:
- - Math operations
- - Date and time
- - Work with strings
+  - Math operations
+  - Date and time
+  - Work with strings
 - Files
 - Database
 - Images
@@ -90,8 +89,7 @@
 - Fonts
 
 
-### Third party SDK
-- Google Maps
+### Third party SDKs
 - Google Maps
 
 # Mobile DevOps
