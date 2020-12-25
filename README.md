@@ -47,7 +47,7 @@
 - **Animations:**
  - Android Transitions
   - ValueAnimator and ObjectAnimator
-- Material Components
+- **Material Components**
 - **Android Support**:
   - CoordinatorLayout, AppBarLayout
 - **RecyclerView:**
@@ -57,7 +57,7 @@
   - LayoutManager
   - ItemAnimator
   - DiffUtil
-  - State Restorration Policy
+  - State Restoration Policy
 
 #  Jetpack
 - Compose
