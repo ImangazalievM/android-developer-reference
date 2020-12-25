@@ -58,7 +58,6 @@
   - ItemAnimator
   - DiffUtil
   - State Restorration Policy
-  - ItemAnimator
 
 #  Jetpack
 - Compose
