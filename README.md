@@ -38,19 +38,18 @@
 - Notifications, Channels
 - MediaSessions
 
-## Android UI
-- App styling
-- **Views**:
+## [Android UI](android_ui.md)
+- [**App styling**](android_ui.md#app-styling)
+- [**Views**](android_ui.md#views):
   - Custom views
   - View Outline
   - Android Canvas
-- **Animations:**
+- [**Animations](android_ui.md#animations):**
  - Android Transitions
   - ValueAnimator and ObjectAnimator
-- **Material Components**
-- **Android Support**:
+- [**Material Components](android_ui.md#material-components):**
   - CoordinatorLayout, AppBarLayout
-- **RecyclerView:**
+- [**RecyclerView](android_ui.md#recyclerview):**
   - Adapter
   - ItemDecoration
   - SnapHelper
