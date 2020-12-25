@@ -1,16 +1,15 @@
 # Android UI
-- App styling
-- **Views**:
+- [**App styling:**](#app-styling)
+- **[Views](#views)**:
   - Custom views
   - View Outline
   - Android Canvas
-- **Animations:**
- - Android Transitions
+- **[Animations](#animations):**
+  - Android Transitions
   - ValueAnimator and ObjectAnimator
-- **Material Components**
-- **Android Support**:
+- **[Material Components](#material-components):**
   - CoordinatorLayout, AppBarLayout
-- **RecyclerView:**
+- **[RecyclerView](#recyclerview):**
   - Adapter
   - ItemDecoration
   - SnapHelper
