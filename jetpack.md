@@ -2,7 +2,7 @@
 
 - [App Startup](#app-startup)
 - [Compose](#compose)
-- [Datastore]
+- [Datastore](#datastore)
 - [LiveData](#livedata)
 - [Navigation](#navigation)
 - [Paging library](#paging-library)
@@ -14,6 +14,8 @@
 - [App Startup, Part 2](https://medium.com/androiddevelopers/app-startup-part-2-c431e80d0df)
 
 ## Compose
+
+## DataStore
 
 ## LiveData
 
