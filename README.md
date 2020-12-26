@@ -44,12 +44,12 @@
   - Custom views
   - View Outline
   - Android Canvas
-- [**Animations](android_ui.md#animations):**
+- [**Animations**](android_ui.md#animations):
  - Android Transitions
   - ValueAnimator and ObjectAnimator
-- [**Material Components](android_ui.md#material-components):**
+- [**Material Components**](android_ui.md#material-components):
   - CoordinatorLayout, AppBarLayout
-- [**RecyclerView](android_ui.md#recyclerview):**
+- [**RecyclerView**](android_ui.md#recyclerview):
   - Adapter
   - ItemDecoration
   - SnapHelper
