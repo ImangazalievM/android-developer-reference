@@ -1,11 +1,5 @@
 # Android Developer Reference
 
-# Common
-- SOLID
-- GoF patterns
-- Data structures
-- Algorithms
-
 # Java
 - Java Core SDK
 - Concurrency and Multithreading
@@ -65,6 +59,14 @@
   - DiffUtil
   - State Restoration Policy
 
+# App Architecture
+- SOLID
+- GoF patterns
+- Clean Architecture
+- MVP
+- MVVM
+- MVI
+
 #  Jetpack
 - Compose
 - Navigation
@@ -93,7 +95,6 @@
 - Audio
 - Fonts
 
-
 ### Third party SDKs
 - Google Maps
 
@@ -111,6 +112,8 @@
 
 # Misc
 - Android Studio
+- Data structures
+- Algorithms
 
 # Android Blogs & Resources
 
