@@ -28,6 +28,9 @@
 
 ## RecyclerView
 
+[Anatomy of RecyclerView. Part 1](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
+[Anatomy of RecyclerView. Part 2](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-continued-d81c631a2b91)
+
 ### Adapter
 
 ### ItemDecoration
