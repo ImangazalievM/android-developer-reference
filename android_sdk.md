@@ -2,7 +2,6 @@
 # Android SDK
 
 - Activity & Intent
-  - Activity Window, Insets
   - Multiwindow 
   - Launch mode
   - Intent flags
