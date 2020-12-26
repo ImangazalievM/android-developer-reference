@@ -89,8 +89,10 @@
 - Messaging
 - Remote config
 
-## Third party SDKs
-- Google Maps
+## Third libraries & SDKs
+- [Dagger&Hilt](dagger_hilt.md)
+- [RxJava](rxjava.md)
+- Maps
 
 ## [Testing & Debug](testing_debug.md)
 - Unit-testing
