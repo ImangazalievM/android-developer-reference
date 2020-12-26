@@ -10,8 +10,10 @@
   - Garbage Collector
 
 ## [Kotlin](kotlin.md)
-- Coroutines
-- Channels & Flows
+- [Basics](kotlin.md#basics)
+- [Extensions](kotlin.md#extensions)
+- [Coroutines](kotlin.md#coroutines)
+- [Channels & Flows](kotlin.md#channels--flows)
 
 ## [Android System](android_system.md)
 
