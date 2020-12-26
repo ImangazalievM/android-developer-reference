@@ -45,7 +45,7 @@
   - View Outline
   - Android Canvas
 - [**Animations**](android_ui.md#animations):
- - Android Transitions
+  - Android Transitions
   - ValueAnimator and ObjectAnimator
 - [**Material Components**](android_ui.md#material-components):
   - CoordinatorLayout, AppBarLayout
