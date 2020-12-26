@@ -9,7 +9,7 @@
   - Java Memory Model
   - Garbage Collector
 
-# Kotlin
+# [Kotlin](kotlin.md)
 - Coroutines
 - Channels & Flows
 
