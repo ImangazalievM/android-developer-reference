@@ -84,7 +84,7 @@
 ## Third party SDKs
 - Google Maps
 
-## Testing & Debug
+## [Testing & Debug](testing_debug.md)
 - Unit-testing
 - UI-testing
 - Debug tools
