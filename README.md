@@ -94,6 +94,7 @@
 - Android Studio
 - Gradle
  - Annotation Processing
+ - Code protection
 
 # Mobile DevOps
 - CI&CD
