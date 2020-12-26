@@ -29,5 +29,6 @@
 ### Android 8/8.1
 
 ### Android 9
+- [Migrating from FingerprintManager to BiometricPrompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd)
 
 ### Android 10
