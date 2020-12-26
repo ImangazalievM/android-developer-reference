@@ -135,3 +135,4 @@
 ### Digests
 - https://androidweekly.net
 - https://android-arsenal.com/
+- https://androidexample365.com/
