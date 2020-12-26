@@ -90,9 +90,10 @@
 ### Third party SDKs
 - Google Maps
 
-### Testing
+### Testing & Debug
 - Unit-testing
 - UI-testing
+- Debug tools
 
 # Mobile DevOps
 - CI&CD
