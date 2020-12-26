@@ -8,7 +8,7 @@
   - Java Memory Model
   - Garbage Collector
 
-##Java Core SDK
+## Java Core SDK
 
 ### Collections
 
