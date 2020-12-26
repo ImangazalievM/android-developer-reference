@@ -74,10 +74,14 @@
 - MVI
 
 ##  [Jetpack](jetpack.md)
-- Compose
-- Navigation
-- Datastore
-- WorkManager
+- [App Startup](jetpack.md#app-startup)
+- [Compose](jetpack.md#compose)
+- [Datastore](jetpack.md#datastore)
+- [LiveData](jetpack.md#livedata)
+- [Navigation](jetpack.md#navigation)
+- [Paging library](jetpack.md#paging-library)
+- [ViewModel](jetpack.md#viewmodel)
+- [WorkManager](jetpack.md#workmanager)
 
 ##  Firebase
 - Crashlytics
