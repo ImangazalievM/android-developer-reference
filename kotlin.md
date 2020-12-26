@@ -61,7 +61,6 @@ ___
 
 - [Simplifying APIs with coroutines and Flow](https://medium.com/androiddevelopers/simplifying-apis-with-coroutines-and-flow-a6fb65338765)
 - [LiveData with Coroutines and Flow — Part I](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-i-reactive-uis-b20f676d25d7)
-- [](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-ii-launching-coroutines-with-architecture-components-337909f37ae7)
 - [LiveData with Coroutines and Flow — Part II](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-ii-launching-coroutines-with-architecture-components-337909f37ae7)
 - [LiveData with Coroutines and Flow — Part III](https://medium.com/androiddevelopers/livedata-with-coroutines-and-flow-part-iii-livedata-and-coroutines-patterns-592485a4a85a)
 - [Lessons learnt using Coroutines Flow in the Android Dev Summit 2019 app](https://medium.com/androiddevelopers/lessons-learnt-using-coroutines-flow-4a6b285c0d06)
