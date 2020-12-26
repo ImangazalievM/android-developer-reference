@@ -12,6 +12,7 @@
 ## [Kotlin](kotlin.md)
 - [Basics](kotlin.md#basics)
 - [Extensions](kotlin.md#extensions)
+- [Collections](#collections)
 - [Coroutines](kotlin.md#coroutines)
 - [Channels & Flows](kotlin.md#channels--flows)
 
@@ -138,5 +139,5 @@
 
 ### Digests
 - https://androidweekly.net
-- https://android-arsenal.com/
-- https://androidexample365.com/
+- https://android-arsenal.com
+- https://androidexample365.com
