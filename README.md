@@ -1,6 +1,6 @@
 # Android Developer Reference
 
-# Java
+## Java
 - Java Core SDK
   - Collections
   - Reflection API
@@ -9,11 +9,11 @@
   - Java Memory Model
   - Garbage Collector
 
-# [Kotlin](kotlin.md)
+## [Kotlin](kotlin.md)
 - Coroutines
 - Channels & Flows
 
-# [Android System](android_system.md)
+## [Android System](android_system.md)
 
 - Android anathomy:
   - Zygote
@@ -27,7 +27,7 @@
   - Android 9 (28)
   - Android 10 (29)
 
-# [Android SDK](android_sdk.md)
+## [Android SDK](android_sdk.md)
 - Activity & Intent
   - Activity Window, Insets
   - Multiwindow 
@@ -61,7 +61,7 @@
   - DiffUtil
   - State Restoration Policy
 
-# App Architecture
+## App Architecture
 - SOLID
 - GoF patterns
 - Clean Architecture
@@ -69,40 +69,40 @@
 - MVVM
 - MVI
 
-#  [Jetpack](jetpack.md)
+##  [Jetpack](jetpack.md)
 - Compose
 - Navigation
 - Datastore
 - WorkManager
 
-#  Firebase
+##  Firebase
 - Crashlytics
 - Realtime database
 - Messaging
 - Remote config
 
-### Third party SDKs
+## Third party SDKs
 - Google Maps
 
-### Testing & Debug
+## Testing & Debug
 - Unit-testing
 - UI-testing
 - Debug tools
 - Profiling & Optimization
 
-# Tools
+## Tools
 - Android Studio
 - Gradle
  - Annotation Processing
  - Code protection
 
-# Mobile DevOps
+## Mobile DevOps
 - CI&CD
 - Linux administration
 - Docker-containers
 - Testing farm
 
-### Android NDK
+## Android NDK
 (С++ Roadmap)
 
 - C++ versions
@@ -118,11 +118,11 @@
 - Audio
 - Fonts
 
-# Misc
+## Misc
 - Data structures
 - Algorithms
 
-# Android Blogs & Resources
+## Android Blogs & Resources
 
 ### Blogs
 
