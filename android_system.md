@@ -20,9 +20,14 @@
 - [SDK Platform release notes](https://developer.android.com/studio/releases/platforms)
 
 
-## Android 5/5.1
-## Android 6
-## Android 7/7.1
-## Android 8/8.1
-## Android 9
-## Android 10
+### Android 5/5.1
+
+### Android 6
+
+### Android 7/7.1
+
+### Android 8/8.1
+
+### Android 9
+
+### Android 10
