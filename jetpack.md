@@ -15,6 +15,14 @@
 
 ## Compose
 
+- [Understanding Jetpack Compose — part 1 of 2](https://medium.com/androiddevelopers/understanding-jetpack-compose-part-1-of-2-ca316fe39050)
+- [Understanding Jetpack Compose — part 2 of 2](https://medium.com/androiddevelopers/under-the-hood-of-jetpack-compose-part-2-of-2-37b2c20c6cdd)
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ## DataStore
 
 ## LiveData
