@@ -2,7 +2,7 @@
 
 - [Basics](#basics)
 - [Extensions](#extensions)
-- [Collections]
+- [Collections](#collections)
 - [Coroutines](#coroutines)
 - [Channels & Flows](#channels--flows)
 
