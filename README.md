@@ -27,11 +27,10 @@
   - Android 9 (28)
   - Android 10 (29)
 
-# Android SDK
-- Activity
- - Activity Window, Insets
- - Multiwindow 
-- Activity и Intent:
+# [Android SDK](android_sdk.md)
+- Activity & Intent
+  - Activity Window, Insets
+  - Multiwindow 
   - Launch mode
   - Intent flags
 - FragmentManager
