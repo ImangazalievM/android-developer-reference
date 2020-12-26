@@ -38,6 +38,7 @@
   - FragmentManager under the hood
 - Services
   - Services under the hood
+- Permissions
 - Notifications, Channels
 - MediaSessions
 
