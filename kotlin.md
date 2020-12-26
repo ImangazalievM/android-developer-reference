@@ -10,7 +10,7 @@ ___
 
 ## Basics
 
-- [https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5](https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5)
+- [Null is your friend, not a mistake](https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 - [Zero-cost* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
 - [Alter type with typealias](https://medium.com/androiddevelopers/alter-type-with-typealias-4c03302fbe43)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
@@ -75,4 +75,3 @@ ___
 - [Simple design of Kotlin Flow](https://elizarov.medium.com/simple-design-of-kotlin-flow-4725e7398c4c)
 - [Cold flows, hot channels](https://elizarov.medium.com/cold-flows-hot-channels-d74769805f9)
 - [Callbacks and Kotlin Flows](https://elizarov.medium.com/callbacks-and-kotlin-flows-2b53aa2525cf)
-- []()
