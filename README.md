@@ -94,6 +94,7 @@
 - Unit-testing
 - UI-testing
 - Debug tools
+- Profiling & Optimization
 
 # Mobile DevOps
 - CI&CD
