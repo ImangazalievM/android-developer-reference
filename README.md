@@ -2,6 +2,8 @@
 
 # Java
 - Java Core SDK
+  - Collections
+  - Reflection API
 - Concurrency and Multithreading
 - JVM
   - Java Memory Model
@@ -9,7 +11,7 @@
 
 # Kotlin
 - Coroutines
-- Channels
+- Channels & Flows
 
 # [Android System](android_system.md)
 
@@ -79,6 +81,26 @@
 - Messaging
 - Remote config
 
+### Third party SDKs
+- Google Maps
+
+### Testing & Debug
+- Unit-testing
+- UI-testing
+- Debug tools
+- Profiling & Optimization
+
+# Tools
+- Android Studio
+- Gradle
+ - Annotation Processing
+
+# Mobile DevOps
+- CI&CD
+- Linux administration
+- Docker-containers
+- Testing farm
+
 ### Android NDK
 (С++ Roadmap)
 
@@ -95,23 +117,7 @@
 - Audio
 - Fonts
 
-### Third party SDKs
-- Google Maps
-
-### Testing & Debug
-- Unit-testing
-- UI-testing
-- Debug tools
-- Profiling & Optimization
-
-# Mobile DevOps
-- CI&CD
-- Linux administration
-- Docker-containers
-- Testing farm
-
 # Misc
-- Android Studio
 - Data structures
 - Algorithms
 
@@ -124,6 +130,7 @@
 - https://blog.stylingandroid.com
 - https://proandroiddev.com
 - https://medium.com/mindorks
+- https://android.jlelse.eu/
 
 ### Digests
 - https://androidweekly.net
