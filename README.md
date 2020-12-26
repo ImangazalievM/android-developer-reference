@@ -69,7 +69,7 @@
 - MVVM
 - MVI
 
-#  Jetpack
+#  [Jetpack](jetpack.md)
 - Compose
 - Navigation
 - Datastore
