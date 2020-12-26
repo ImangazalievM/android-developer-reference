@@ -4,8 +4,7 @@
 - SOLID
 - GoF patterns
 - Data structures
-- Algorithms:
-  - Algorithm complexity estimating
+- Algorithms
 
 # Java
 - Java Core SDK
@@ -15,14 +14,22 @@
   - Garbage Collector
 
 # Kotlin
-- Kotlin Coroutines: Scopes, Cancelling
+- Coroutines
+- Channels
 
-# Android System
+# [Android System](android_system.md)
 
-- Android: Zygote
-- Dalvik & ART
-- Android Versions Changelog
-- App startup process
+- Android anathomy:
+  - Zygote
+  - Dalvik & ART
+  - App startup process
+- Android Versions
+  - Android 5/5.1 (API level 21/22)
+  - Android 6 (23)
+  - Android 7/7.1 (24/25)
+  - Android 8/8.1 (26-27)
+  - Android 9 (28)
+  - Android 10 (29)
 
 # Android SDK
 - Activity
@@ -101,6 +108,9 @@
 - Linux administration
 - Docker-containers
 - Testing farm
+
+# Misc
+- Android Studio
 
 # Android Blogs & Resources
 
