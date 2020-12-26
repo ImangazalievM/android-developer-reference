@@ -40,6 +40,7 @@
 - Permissions
 - Notifications, Channels
 - MediaSessions
+- Resources
 
 ## [Android UI](android_ui.md)
 - [**App styling**](android_ui.md#app-styling)
