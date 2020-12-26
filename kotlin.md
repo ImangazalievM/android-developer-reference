@@ -1,7 +1,7 @@
 # Kotlin
 
 - [Coroutines](#coroutines)
-- [Channels & Flows](3channels-coroutines)
+- [Channels & Flows](#channels--flows)
 
 ___
 
