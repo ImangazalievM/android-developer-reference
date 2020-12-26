@@ -29,7 +29,7 @@
 
 - [ViewModel Overview](https://developer.android.com/topic/libraries/architecture/viewmodel)
 
-# [Paging library]
+# Paging library
 
 - [Paging library overview](https://developer.android.com/topic/libraries/architecture/paging)
 
