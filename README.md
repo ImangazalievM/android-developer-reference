@@ -90,6 +90,10 @@
 ### Third party SDKs
 - Google Maps
 
+### Testing
+- Unit-testing
+- UI-testing
+
 # Mobile DevOps
 - CI&CD
 - Linux administration
