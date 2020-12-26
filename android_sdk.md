@@ -13,6 +13,7 @@
 - Permissions
 - Notifications, Channels
 - MediaSessions
+- Resources
 
 ___
 
