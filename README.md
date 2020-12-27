@@ -35,11 +35,9 @@
   - Multiwindow 
   - Launch mode
   - Intent flags
-- FragmentManager
-  - FragmentManager under the hood
-- Services
-  - Services under the hood
-- Permissions
+- [Fragments](android_sdk.md#fragments)
+- [Services](android_sdk.md#services)
+- [Permissions](android_sdk.md#permissions)
 - Notifications, Channels
 - MediaSessions
 - Resources
