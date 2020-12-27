@@ -97,9 +97,9 @@
 - Debug tools
 - Profiling & Optimization
 
-## Tools
-- Android Studio
-- Gradle
+## [Tools](tools.md)
+- [Android Studio](tools.md#android-studio)
+- [Gradle](tools.md#gradle)
  - Annotation Processing
  - Code protection
 
