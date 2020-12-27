@@ -31,6 +31,7 @@
 ## ViewModel
 
 - [ViewModel Overview](https://developer.android.com/topic/libraries/architecture/viewmodel)
+- [Android ViewModels: Under the hood](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5)
 
 # Paging library
 
@@ -46,6 +47,9 @@
 
 ## WorkManager
 
-[Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
-
-
+- [Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+- [Introducing WorkManager](https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712)
+- [WorkManager basics](https://medium.com/androiddevelopers/workmanager-basics-beba51e94048)
+- [Use WorkManager for immediate background execution](https://medium.com/androiddevelopers/use-workmanager-for-immediate-background-execution-a57db502603d)
+- [WorkManager basics, how to use WorkManager with Rxjava2 & Kotlin Coroutines](https://medium.com/swlh/workmanager-basics-how-to-use-workmanager-with-rxjava2-kotlin-coroutines-c2a317197038)
+- [Working With WorkManager in Android Like A Pro](https://medium.com/mindorks/work-manager-in-android-9cdb66c9a1df)
