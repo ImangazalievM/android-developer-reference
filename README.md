@@ -1,13 +1,13 @@
 # Android Developer Reference
 
 ## [Java](java.md)
-- Java Core SDK
-  - Collections
-  - Reflection API
-- Concurrency and Multithreading
-- JVM
-  - Java Memory Model
-  - Garbage Collector
+- [Java Core SDK](java.md#java-core-sdk)
+  - [Collections](java.md#collections)
+  - [Reflection API](java.md#reflection-api)
+- [Concurrency and Multithreading](java.md#concurrency-and-multithreading)
+- [JVM](java.md#jvm)
+  - [Java Memory Model](java.md#java-memory-model)
+  - [Garbage Collector](java.md#garbage-collector)
 
 ## [Kotlin](kotlin.md)
 - [Basics](kotlin.md#basics)
@@ -18,11 +18,11 @@
 
 ## [Android System](android_system.md)
 
-- Android anathomy:
+- [Android anathomy:](android_system.md#android-anathomy)
   - Zygote
   - Dalvik & ART
   - App startup process
-- Android Versions
+- [Android Versions](android_system.md#android-versions)
   - Android 5/5.1 (API level 21/22)
   - Android 6 (23)
   - Android 7/7.1 (24/25)
@@ -31,16 +31,16 @@
   - Android 10 (29)
 
 ## [Android SDK](android_sdk.md)
-- Activity & Intent
-  - Multiwindow 
-  - Launch mode
-  - Intent flags
+- [Activity & Intent](android_sdk.md#activity--intent)
+  - [Multiwindow](android_sdk.md#multiwindow)
+  - [Launch mode](android_sdk.md#launch-mode)
+  - [Intent flags](android_sdk.md#intent-flags)
 - [Fragments](android_sdk.md#fragments)
 - [Services](android_sdk.md#services)
 - [Permissions](android_sdk.md#permissions)
 - Notifications, Channels
 - MediaSessions
-- Resources
+- [Resources](android_sdk.md#resources)
 
 ## [Android UI](android_ui.md)
 - [**App styling**](android_ui.md#app-styling)
@@ -54,21 +54,21 @@
 - [**Material Components**](android_ui.md#material-components):
   - CoordinatorLayout, AppBarLayout
 - [**RecyclerView**](android_ui.md#recyclerview):
-  - Adapter
-  - ItemDecoration
-  - SnapHelper
-  - LayoutManager
-  - ItemAnimator
-  - DiffUtil
-  - State Restoration Policy
+  - [Adapter](android_ui.md#adapter):
+  - [ItemDecoration](android_ui.md#itemdecoration):
+  - [SnapHelper](android_ui.md#snaphelper):
+  - [LayoutManager](android_ui.md#layoutmanager):
+  - [ItemAnimator](android_ui.md#itemanimator):
+  - [DiffUtil](android_ui.md#diffutil):
+  - [State Restoration Policy](android_ui.md#state-restoration-policy):
 
 ## [App Architecture](app_architecture.md)
-- SOLID
-- GoF patterns
-- Clean Architecture
-- MVP
-- MVVM
-- MVI/Elm
+- [SOLID](app_architecture.md#solid)
+- [GoF patterns](app_architecture.md#gof-patterns)
+- [Clean Architecture](app_architecture.md#clean-architecture)
+- [MVP](app_architecture.md#mvp)
+- [MVVM](app_architecture.md#mvvm)
+- [MVI/Elm](app_architecture.md#mvi-elm)
 
 ##  [Jetpack](jetpack.md)
 - [App Startup](jetpack.md#app-startup)
@@ -92,10 +92,10 @@
 - Maps
 
 ## [Testing & Debug](testing_debug.md)
-- Unit-testing
-- UI-testing
-- Debug tools
-- Profiling & Optimization
+- [Unit-testing](testing_debug.md#unit-testing)
+- [UI-testing](testing_debug.md#ui-testing)
+- [Debug tools](testing_debug.md#debug-tools)
+- [Profiling & Optimization](testing_debug.md#profiling--optimization)
 
 ## [Tools](tools.md)
 - [Android Studio](tools.md#android-studio)
