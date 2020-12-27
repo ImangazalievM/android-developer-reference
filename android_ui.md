@@ -52,8 +52,6 @@
 - [Draw a Path: Rendering Android VectorDrawables](https://medium.com/androiddevelopers/draw-a-path-rendering-android-vectordrawables-89a33b5e5ebf)
 - [Understanding Android’s vector image format: VectorDrawable](https://medium.com/androiddevelopers/understanding-androids-vector-image-format-vectordrawable-ab09e41d5c68)
 - [Material Motion with MDC](https://medium.com/androiddevelopers/material-motion-with-mdc-c1f09bb90bf9)
-- []()
-
 
 ## Window, Insets
 - [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
@@ -84,6 +82,8 @@
 - [How to Cook the 60 FPS RecyclerView?](https://medium.com/rosberryapps/how-to-cook-the-60-fps-recyclerview-3e7f3885a55)
 
 ### Adapter
+
+- [Concatenate adapters sequentially with ConcatAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
 
 ### ItemDecoration
 
