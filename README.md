@@ -70,7 +70,7 @@
 - Clean Architecture
 - MVP
 - MVVM
-- MVI
+- MVI/Elm
 
 ##  [Jetpack](jetpack.md)
 - [App Startup](jetpack.md#app-startup)
