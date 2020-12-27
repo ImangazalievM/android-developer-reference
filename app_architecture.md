@@ -7,6 +7,13 @@
 - MVVM
 - MVI/Elm
 
+## Clean Architecture
+
+- [CleanArchitectureManifest](https://github.com/ImangazalievM/CleanArchitectureManifest)
+
+## MVP
+
+## MVVM
 
 ## MVI/Elm
 
