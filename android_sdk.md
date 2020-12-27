@@ -7,7 +7,6 @@
   - Intent flags
 - Fragments
 - Services
-  - Services under the hood
 - Permissions
 - Notifications, Channels
 - MediaSessions
