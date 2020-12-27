@@ -64,7 +64,7 @@
   - DiffUtil
   - State Restoration Policy
 
-## App Architecture
+## [App Architecture](app_architecture.md)
 - SOLID
 - GoF patterns
 - Clean Architecture
