@@ -5,8 +5,7 @@
   - Multiwindow 
   - Launch mode
   - Intent flags
-- FragmentManager
-  - FragmentManager under the hood
+- Fragments
 - Services
   - Services under the hood
 - Permissions
@@ -21,6 +20,10 @@ ___
 ## Activity & Intent
 
 - [Deep Dive into Activity Results API — No More onActivityResult()](https://android.jlelse.eu/activity-results-api-69be5a225e86)
+
+## Fragments
+
+- [Fragments: rebuilding the internals](https://medium.com/androiddevelopers/fragments-rebuilding-the-internals-61913f8bf48e)
 
 ## Permissions
 
