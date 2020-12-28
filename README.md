@@ -41,6 +41,7 @@
 - Notifications, Channels
 - MediaSessions
 - [Resources](android_sdk.md#resources)
+- [File system](android_sdk.md#file-system)
 
 ## [Android UI](android_ui.md)
 - [**App styling**](android_ui.md#app-styling)
