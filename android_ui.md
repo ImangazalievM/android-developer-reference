@@ -18,7 +18,7 @@
   - [LayoutManager](#layoutmanager)
   - [ItemAnimator](#itemanimator)
   - [DiffUtil](#diffutil)
-  - [State Restoration Policy](#policy)
+  - [State Restoration Policy](#state-restoration-policy)
   
  ___
   
@@ -42,10 +42,13 @@
 
 ## Resources
 
+- [Auto fetching string resource](https://proandroiddev.com/auto-fetching-string-resources-31788ceecf04)
+
 ### Layouts
 - [Some common mistakes when doing layout in Android](https://medium.com/swlh/some-common-mistakes-in-doing-layout-in-android-a8ee035f199c)
 = [Writing Performant Layouts](https://proandroiddev.com/writing-performant-layouts-3bf2a18d4a61)
 - [AsyncLayoutInflater](https://blog.stylingandroid.com/asynclayoutinflater/)
+- [LayoutInflater: Friend or Foe?](https://academy.realm.io/posts/layoutinflater-droid-kaigi-2017-jenx/)
 
 ### Vector images
 
@@ -58,7 +61,7 @@
 - [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
 - [Animating your keyboard (part 1)](https://medium.com/androiddevelopers/animating-your-keyboard-fb776a8fb66d)
 - [Animating your keyboard (part 2): reacting to WindowInset animations](https://medium.com/androiddevelopers/animating-your-keyboard-reacting-to-inset-animations-839be3d4c31b)
-
+- [Window Insets and Keyboard Animations Tutorial for Android 11](https://www.raywenderlich.com/18393648-window-insets-and-keyboard-animations-tutorial-for-android-11)
 ## Views
 
 ### Custom views
@@ -70,6 +73,12 @@
 
 ### Android Canvas
 - [Playing with Paths](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
+
+### TextView
+
+- [Spantastic text styling with Spans](https://medium.com/androiddevelopers/spantastic-text-styling-with-spans-17b0c16b4568)
+- [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
+- [Working with spans in Android](https://programmerr47.medium.com/working-with-spans-in-android-ca4ab1327bc4)
 
 ## Animations
 
@@ -93,6 +102,7 @@
 ### Adapter
 
 - [Concatenate adapters sequentially with ConcatAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
+- [Declarative Adapter Building]
 
 ### ItemDecoration
 
@@ -101,3 +111,9 @@
 ### LayoutManager
 
 ### DiffUtil
+
+- [Asynchronous DiffUtil with Kotlin Coroutines](https://proandroiddev.com/better-recyclerview-with-asynchronous-diffutil-and-kotlin-coroutines-f67e4f366cda)
+
+### State Restoration Policy
+
+- [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
