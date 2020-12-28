@@ -1,5 +1,7 @@
 # Android Developer Reference
 
+- [Android Developer Arsenal](android_developer_arsenal.md)
+
 ## [Java](java.md)
 - [Java Core SDK](java.md#java-core-sdk)
   - [Collections](java.md#collections)
@@ -87,11 +89,10 @@
 - Messaging
 - Remote config
 
-## Libraries & SDKs
-- [Android Developer Arsenal](android_developer_arsenal.md)
-- [Dagger&Hilt](dagger_hilt.md)
-- [RxJava](rxjava.md)
-- [Retrofit&OkHttp](retrofit_okhttp.md)
+## [Libraries & SDKs](libraries_and_sdk.md)
+- [Dagger&Hilt](libraries_and_sdk.md#dagger-hilt)
+- [RxJava](libraries_and_sdk.md#rxjava)
+- [Retrofit&OkHttp](libraries_and_sdk.md#retrofit--okhttp)
 
 ## [Testing & Debug](testing_debug.md)
 - [Unit-testing](testing_debug.md#unit-testing)
