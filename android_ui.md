@@ -44,6 +44,7 @@
 
 ### Layouts
 - [Some common mistakes when doing layout in Android](https://medium.com/swlh/some-common-mistakes-in-doing-layout-in-android-a8ee035f199c)
+= [Writing Performant Layouts](https://proandroiddev.com/writing-performant-layouts-3bf2a18d4a61)
 - [AsyncLayoutInflater](https://blog.stylingandroid.com/asynclayoutinflater/)
 
 ### Vector images
@@ -55,12 +56,17 @@
 
 ## Window, Insets
 - [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
+- [Animating your keyboard (part 1)](https://medium.com/androiddevelopers/animating-your-keyboard-fb776a8fb66d)
+- [Animating your keyboard (part 2): reacting to WindowInset animations](https://medium.com/androiddevelopers/animating-your-keyboard-reacting-to-inset-animations-839be3d4c31b)
 
 ## Views
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
 - [How to test a custom Android view with Robolectric](https://plusmobileapps.com/2020/12/14/android-custom-view-testing.html)
+- [Custom view from scratch. Part I](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
+- [Custom view from scratch. Part II. Canvas](https://medium.com/revolut/custom-view-from-scratch-part-ii-canvas-74982b1d2d7c)
+- [Custom view from scratch. Part III. Performance and optimisation](https://medium.com/revolut/custom-view-from-scratch-part-iii-performance-and-optimisation-54cb6ac57e4b)
 
 ### Android Canvas
 - [Playing with Paths](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
@@ -68,10 +74,12 @@
 ## Animations
 
 - [Animating on a Schedule](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
+- [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
+- [Suspending over views — example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
 
 ## Gestures
 
-- [Gesture Navigation: going edge-to-edge (I)](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
+- [Gesture Navigation: going edge-to-edge (I)](https://medium.com/androiddevelopers/gesture-navigation-going-edge-to-edge-812f62e4e83e)
 - [Gesture Navigation: handling visual overlaps (II)](https://medium.com/androiddevelopers/gesture-navigation-handling-visual-overlaps-4aed565c134c)
 - [Gesture Navigation: handling gesture conflicts (III)](https://medium.com/androiddevelopers/gesture-navigation-handling-gesture-conflicts-8ee9c2665c69)
 - [Gesture Navigation: immersive modes (IV)](https://medium.com/androiddevelopers/gesture-navigation-immersive-modes-43f2d37a925d)
