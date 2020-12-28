@@ -3,7 +3,7 @@
 - [Gradle](#gradle)
  - Annotation Processing
  - Code protection
-- [App Bundle](tools.md#app-bundle
+- [App Bundle](#app-bundle)
 
 ## Android Studio
 
