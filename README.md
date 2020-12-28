@@ -106,7 +106,7 @@
  - Code protection
 - [App Bundle](tools.md#app-bundle)
 
-## Mobile DevOps
+## [Mobile DevOps](devops.md)
 - CI&CD
 - Linux administration
 - Docker-containers
