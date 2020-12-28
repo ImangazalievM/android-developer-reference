@@ -86,11 +86,11 @@
 - Messaging
 - Remote config
 
-## Third libraries & SDKs
+## Libraries & SDKs
+- [Recommended libraries](recommended_libs.md)
 - [Dagger&Hilt](dagger_hilt.md)
 - [RxJava](rxjava.md)
 - [Retrofit&OkHttp](retrofit_okhttp.md)
-- Maps
 
 ## [Testing & Debug](testing_debug.md)
 - [Unit-testing](testing_debug.md#unit-testing)
