@@ -105,6 +105,8 @@
  - Annotation Processing
  - Code protection
 - [App Bundle](tools.md#app-bundle)
+- [Dynamic Feature Modules](tools.md#dynamic-feature-modules)
+
 
 ## [Mobile DevOps](devops.md)
 - CI&CD
