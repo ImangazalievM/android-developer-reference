@@ -4,7 +4,7 @@
  - Annotation Processing
  - Code protection
 - [App Bundle](#app-bundle)
-- [Dynamic Feature Modules](#app-bundle)
+- [Dynamic Feature Modules](#dynamic-feature-modules)
 
 ## Android Studio
 
@@ -28,3 +28,4 @@
 ## Dynamic Feature Modules
 
 - [Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123)
+- [Exploring Dynamic Feature navigation on Android](https://joebirch.co/android/exploring-dynamic-feature-navigation-on-android/)
