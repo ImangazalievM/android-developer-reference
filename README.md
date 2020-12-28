@@ -1,7 +1,5 @@
 # Android Developer Reference
 
-- [Android Developer Arsenal](android_developer_arsenal.md)
-
 ## [Java](java.md)
 - [Java Core SDK](java.md#java-core-sdk)
   - [Collections](java.md#collections)
@@ -90,6 +88,7 @@
 - Remote config
 
 ## [Libraries & SDKs](libraries_and_sdk.md)
+- [Android Developer Arsenal](android_developer_arsenal.md)
 - [Dagger&Hilt](libraries_and_sdk.md#daggerhilt)
 - [RxJava](libraries_and_sdk.md#rxjava)
 - [Retrofit&OkHttp](libraries_and_sdk.md#retrofitokhttp)
