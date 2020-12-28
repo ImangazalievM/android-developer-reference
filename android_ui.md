@@ -59,6 +59,7 @@
 ## Views
 
 ### Custom views
+- [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
 - [How to test a custom Android view with Robolectric](https://plusmobileapps.com/2020/12/14/android-custom-view-testing.html)
 
 ### Android Canvas
