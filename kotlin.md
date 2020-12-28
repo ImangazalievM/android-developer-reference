@@ -16,7 +16,7 @@ ___
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
 - [Kotlin and Exceptions](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07)
 - [Extension-oriented design](https://elizarov.medium.com/extension-oriented-design-13f4f27deaee)
-
+- [Delegation Pattern in Kotlin](https://medium.com/yellowme/delegation-pattern-in-kotlin-a0ce5c5bb89f)
 
 ### Inline functions
 
