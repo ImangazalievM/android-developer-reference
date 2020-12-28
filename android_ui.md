@@ -12,13 +12,13 @@
 - **[Material Components](#material-components):**
   - CoordinatorLayout, AppBarLayout
 - **[RecyclerView](#recyclerview):**
-  - Adapter
-  - ItemDecoration
-  - SnapHelper
-  - LayoutManager
-  - ItemAnimator
-  - DiffUtil
-  - State Restoration Policy
+  - [Adapter](#adapter)
+  - [ItemDecoration](#itemdecoration)
+  - [SnapHelper](#snaphelper)
+  - [LayoutManager](#layoutmanager)
+  - [ItemAnimator](#itemanimator)
+  - [DiffUtil](#diffutil)
+  - [State Restoration Policy](#policy)
   
  ___
   
