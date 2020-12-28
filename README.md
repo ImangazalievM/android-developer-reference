@@ -87,7 +87,7 @@
 - Remote config
 
 ## Libraries & SDKs
-- [Recommended libraries](recommended_libs.md)
+- [Android Developer Arsenal](android_developer_arsenal.md)
 - [Dagger&Hilt](dagger_hilt.md)
 - [RxJava](rxjava.md)
 - [Retrofit&OkHttp](retrofit_okhttp.md)
