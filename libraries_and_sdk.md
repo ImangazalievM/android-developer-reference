@@ -1,4 +1,11 @@
 # Libraries & SDKs
+- [Dagger&Hilt](#daggerhilt)
+- [RxJava](#rxjava)
+- [Retrofit&OkHttp](#retrofitokhttp)
+___
+
+- [GSON course by Future Studio](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
+- [Glide course by Future Studio](https://futurestud.io/tutorials/glide-getting-started)
 
 ## Dagger&Hilt
 
@@ -9,6 +16,10 @@
 ### Hilt
 
 - [Exploring Hilt: Application Level Code Generation](https://joebirch.co/android/exploring-dagger-hilt-an-introduction/)
+
+## RxJava
+
+
 
 ## Retrofit&OkHttp
 
