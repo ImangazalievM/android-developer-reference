@@ -90,9 +90,9 @@
 - Remote config
 
 ## [Libraries & SDKs](libraries_and_sdk.md)
-- [Dagger&Hilt](libraries_and_sdk.md#dagger-hilt)
+- [Dagger&Hilt](libraries_and_sdk.md#daggerhilt)
 - [RxJava](libraries_and_sdk.md#rxjava)
-- [Retrofit&OkHttp](libraries_and_sdk.md#retrofit--okhttp)
+- [Retrofit&OkHttp](libraries_and_sdk.md#retrofitokhttp)
 
 ## [Testing & Debug](testing_debug.md)
 - [Unit-testing](testing_debug.md#unit-testing)
