@@ -21,6 +21,8 @@
 
 ## DataStore
 
+- [3 Practical Steps To Master Android DataStore](https://vladsonkin.com/3-practical-steps-to-master-android-datastore/)
+
 ## LiveData
 
 - [LiveData Overview](https://developer.android.com/topic/libraries/architecture/livedata)
