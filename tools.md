@@ -22,6 +22,12 @@
 - [Configuration caching deep dive](https://medium.com/androiddevelopers/configuration-caching-deep-dive-bcb304698070)
 - [Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
 
+## Gradle
+
+### Annotation Processing
+
+- [Annotation processing 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
+
 ## App Bundle
 
 - [Android App Bundles](https://developer.android.com/guide/app-bundle)
