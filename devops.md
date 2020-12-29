@@ -1,9 +1,9 @@
 # Mobile DevOps
 
-- CI&CD
-- Linux administration
-- Docker-containers
-- Testing farm
+- [CI&CD](#cicd)
+- [Linux administration](#linux-administration)
+- [Docker-containers](#docker-containers)
+- [Testing farm](#testing-farm)
 
 ## CI&CD
 
