@@ -3,16 +3,16 @@
   - Window, Insets
 - [**Resources**](#resources)
 - **[Views](#views)**:
-  - Custom views
-  - View Outline
-  - Android Canvas
+  - [Custom views](#custom-views)
+  - [View Outline](#view-outline)
+  - [Android Canvas](#android-canvas)
 - [**Animations**](#animations):
-  - Android Transitions
-  - ValueAnimator and ObjectAnimator
+  - [Android Transitions](android-transitions)
+  - [ValueAnimator, ObjectAnimator](valueanimator-objectanimator)
 - [**Gestures**](#gestures)
-- **[Material Components & Layouts](#material-components):**
-  - CoordinatorLayout, AppBarLayout
-  - ConstraintLayout, MotionLayout
+- **[Material Components & Layouts](#material-components--layouts):**
+  - [CoordinatorLayout, AppBarLayout](#coordinatorlayout-appbarlayout)
+  - [ConstraintLayout, MotionLayout](#constraintlayout-motionlayout)
 - **[RecyclerView](#recyclerview):**
   - [Adapter](#adapter)
   - [ItemDecoration](#itemdecoration)
