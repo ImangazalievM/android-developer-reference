@@ -109,10 +109,10 @@
 
 
 ## [Mobile DevOps](devops.md)
-- CI&CD
-- Linux administration
-- Docker-containers
-- Testing farm
+- [CI&CD](devops.md#cicd)
+- [Linux administration](devops.md#linux-administration)
+- [Docker-containers](devops.md#docker-containers)
+- [Testing farm](devops.md#testing-farm)
 
 ## Android NDK
 (С++ Roadmap)
