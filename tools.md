@@ -6,6 +6,8 @@
 - [App Bundle](#app-bundle)
 - [Dynamic Feature Modules](#dynamic-feature-modules)
 
+- [Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
+
 ## Android Studio
 
 - [Debugging in Android Studio](https://medium.com/androiddevelopers/debugging-in-android-studio-dfbbf8a8d03c)
