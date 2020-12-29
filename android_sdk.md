@@ -13,6 +13,7 @@
 - [MediaSessions](#mediasessions)
 - [Resources](#resources)
 - [File system](#file-system)
+- [Widgets](#widgets)
 
 ___
 
@@ -29,11 +30,13 @@ ___
 ## Permissions
 
 - [Permissions on Android](https://developer.android.com/guide/topics/permissions/overview)
-
+- [When Coroutines Meet Android Permissions](https://medium.com/better-programming/when-coroutines-meet-android-permissions-a1f048e70f74)
 
 ## Resources
 - [The Ultimate Guide to Android App I18n and L10n](https://proandroiddev.com/the-ultimate-guide-to-android-app-internationalization-and-localization-89b6c33fe741)
 
 ## File system
+
+## Widgets
 
 
