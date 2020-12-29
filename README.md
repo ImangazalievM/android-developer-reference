@@ -48,7 +48,7 @@
 - [**App styling**](android_ui.md#app-styling)
 - [**Views**](android_ui.md#views):
   - [Custom views](android_ui.md#custom-views)
-  - [View Outline]()
+  - [View Outline](android_ui.md#view-outline)
   - [Android Canvas](android_ui.md#android-canvas)
 - [**Animations**](android_ui.md#animations):
   - [Android Transitions](android_ui.md#android-transitions)
