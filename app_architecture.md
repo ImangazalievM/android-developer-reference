@@ -19,6 +19,8 @@
 
 ### MVI
 
+- [Model-view-intent on Android](http://hannesdorfmann.com/android/model-view-intent)
+
 **Reactive apps with Model-View-Intent**
 - [Part1 - Model](http://hannesdorfmann.com/android/mosby3-mvi-1)
 - [Part 2 - View And Intent](http://hannesdorfmann.com/android/mosby3-mvi-2)
