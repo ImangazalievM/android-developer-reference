@@ -30,6 +30,7 @@
 - [Android styling: themes vs styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
 - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 - [DayNight — Adding a dark theme to your app](https://medium.com/androiddevelopers/appcompat-v23-2-daynight-d10f90c83e94)
+- [Dark Mode Musings: Beware of the Context](https://medium.com/over-engineering/dark-mode-musings-beware-of-the-context-59baefc3864d)
 
 ## Material Components
 
@@ -57,6 +58,10 @@
 - [Understanding Android’s vector image format: VectorDrawable](https://medium.com/androiddevelopers/understanding-androids-vector-image-format-vectordrawable-ab09e41d5c68)
 - [Material Motion with MDC](https://medium.com/androiddevelopers/material-motion-with-mdc-c1f09bb90bf9)
 
+### Fonts
+
+- [Variable Fonts in Android O](https://medium.com/over-engineering/variable-fonts-in-android-p-c5c918275646)
+
 ## Window, Insets
 - [WindowInsets — listeners to layouts](https://medium.com/androiddevelopers/windowinsets-listeners-to-layouts-8f9ccc8fa4d1)
 - [Animating your keyboard (part 1)](https://medium.com/androiddevelopers/animating-your-keyboard-fb776a8fb66d)
@@ -70,9 +75,23 @@
 - [Custom view from scratch. Part I](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
 - [Custom view from scratch. Part II. Canvas](https://medium.com/revolut/custom-view-from-scratch-part-ii-canvas-74982b1d2d7c)
 - [Custom view from scratch. Part III. Performance and optimisation](https://medium.com/revolut/custom-view-from-scratch-part-iii-performance-and-optimisation-54cb6ac57e4b)
+- [Custom Android Views: Graph View and Drawing on the Canvas](https://medium.com/@supahsoftware/custom-android-views-graph-view-and-drawing-on-the-canvas-d03c2ea2b703)
+- [Custom Android Views: Search View and Circular Reveal Animations](https://medium.com/@supahsoftware/custom-android-views-search-view-and-circular-reveal-animations-7bf2dadc800)
+- [Custom Android Views: Carousel RecyclerView](https://medium.com/@supahsoftware/custom-android-views-carousel-recyclerview-7b9318d23e9a)
 
 ### Android Canvas
+- [Getting Started with Android Canvas Drawing](https://medium.com/over-engineering/getting-started-with-drawing-on-the-android-canvas-621cf512f4c7)
+- [Learn All Android Canvas Draw Functions](https://medium.com/mobile-app-development-publication/learn-all-android-canvas-draw-functions-dd5d6595884a)
+- [Android Canvas APIs with Kotlin and KTX](https://medium.com/over-engineering/android-canvas-apis-with-kotlin-and-ktx-d92d4622ce09)
 - [Playing with Paths](https://medium.com/androiddevelopers/playing-with-paths-3fbc679a6f77)
+- [Playing with Android canvas drawVertices](https://medium.com/mobile-app-development-publication/playing-with-android-canvas-drawvertices-32266c480ab6)
+- [Learn to create a Paint Application for Android](https://ssaurel.medium.com/learn-to-create-a-paint-application-for-android-5b16968063f8)
+- [A guide to drawing in android](https://android.jlelse.eu/a-guide-to-drawing-in-android-631237ab6e28)
+- [Exploring Android Canvas Drawing— For Shapes, Bitmaps andCustom views](https://android.jlelse.eu/android-canvas-for-drawing-and-custom-views-e1a3e90d468b)
+- [Android Canvas Drawing: Useful Graphics Classes & Operations](https://medium.com/over-engineering/android-canvas-drawing-useful-graphics-classes-operations-2803e435e848)
+- [Expounding Android Canvas’ DrawText](https://medium.com/mobile-app-development-publication/expounding-android-canvas-drawtext-bae3d4fabc5a)
+- [Canvas : The Real Play Ground! Android](https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943)
+- [Drawing multiline text to Canvas on Android](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
 
 ### TextView
 
@@ -89,6 +108,7 @@
 - [Animating on a Schedule](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
 - [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
 - [Suspending over views — example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
+- [Android: Using Physics-based Animations in Custom Views](https://medium.com/over-engineering/android-using-physics-based-animations-in-custom-views-springanimation-5c3a70c0dd0d)
 
 ## Gestures
 
