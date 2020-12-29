@@ -80,6 +80,10 @@
 - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 - [Working with spans in Android](https://programmerr47.medium.com/working-with-spans-in-android-ca4ab1327bc4)
 
+### ViewPager
+
+- [ViewPager2 under the Hood](https://helw.net/2019/02/08/viewpager2-under-the-hood/?__s=xjbznawfpuk7bngq7fa6)
+
 ## Animations
 
 - [Animating on a Schedule](https://medium.com/androiddevelopers/animating-on-a-schedule-8a90d812ae4)
@@ -98,21 +102,36 @@
 - [Anatomy of RecyclerView. Part 1](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
 - [Anatomy of RecyclerView. Part 2](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-continued-d81c631a2b91)
 - [How to Cook the 60 FPS RecyclerView?](https://medium.com/rosberryapps/how-to-cook-the-60-fps-recyclerview-3e7f3885a55)
+- [Smooth RecyclerView Scrolling in Android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)
+- [A guide to recyclerview-selection](https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504)
+- [Smooth cross RecyclingViews Swipe](https://medium.com/mobile-app-development-publication/smooth-cross-recyclingviews-swipe-cc2810e13e0a)
+- [Add extra depth to your list using parallax](https://medium.com/@patrick.elmquist/add-extra-depth-to-your-list-using-parallax-eddb27b369de)
 
 ### Adapter
 
 - [Concatenate adapters sequentially with ConcatAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
-- [Declarative Adapter Building]
+- [Declarative Adapter Building](https://proandroiddev.com/declarative-adapter-building-91888f23b979)
+- [Recycler view, power of asynchronous view holders creation](https://medium.com/@icesrgt/recycler-view-power-of-asynchronous-view-holders-creation-b3c9fe067702)
 
 ### ItemDecoration
 
+- [ItemDecoration in Android](https://proandroiddev.com/itemdecoration-in-android-e18a0692d848)
+
 ### SnapHelper
 
+- [Detecting snap changes with Android’s RecyclerView SnapHelper](https://medium.com/over-engineering/detecting-snap-changes-with-androids-recyclerview-snaphelper-9e9f5e95c424)
+- [Inside RecyclerView’s SnapHelper](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
+
 ### LayoutManager
+
+- [10 steps to create a custom LayoutManager](https://medium.com/android-development-by-danylo/10-steps-to-create-a-custom-layoutmanager-2f30ab2f979d)
+- [Reel Search and LayoutManager: An Android journey](https://blog.usejournal.com/reel-search-and-layoutmanager-an-android-journey-e2f925c8410f)
+- [RecyclerView animated transition between Grid and List layouts](https://medium.com/xorum-io/android-recyclerview-animated-transition-between-grid-and-list-layouts-b2309e1d9f19)
 
 ### DiffUtil
 
 - [Asynchronous DiffUtil with Kotlin Coroutines](https://proandroiddev.com/better-recyclerview-with-asynchronous-diffutil-and-kotlin-coroutines-f67e4f366cda)
+- [RecyclerView — time to animate](https://blog.undabot.com/recyclerview-time-to-animate-with-payloads-and-diffutil-4278beb8d4dd)
 
 ### State Restoration Policy
 
