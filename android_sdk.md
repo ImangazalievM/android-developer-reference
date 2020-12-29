@@ -7,6 +7,7 @@
   - [Intent flags](#intent-flags)
 - [Fragments](#fragments)
 - [Services](#services)
+- [Android Manifest](#android-manifest)
 - [Permissions](#permissions)
 - [Notifications, Channels](#notifications--channels)
 - [MediaSessions](#mediasessions)
