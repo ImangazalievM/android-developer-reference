@@ -6,11 +6,13 @@
   - Custom views
   - View Outline
   - Android Canvas
-- **[Animations](#animations):**
+- [**Animations**](#animations):
   - Android Transitions
   - ValueAnimator and ObjectAnimator
-- **[Material Components](#material-components):**
+- [**Gestures**](#gestures)
+- **[Material Components & Layouts](#material-components):**
   - CoordinatorLayout, AppBarLayout
+  - ConstraintLayout, MotionLayout
 - **[RecyclerView](#recyclerview):**
   - [Adapter](#adapter)
   - [ItemDecoration](#itemdecoration)
@@ -67,6 +69,7 @@
 - [Animating your keyboard (part 1)](https://medium.com/androiddevelopers/animating-your-keyboard-fb776a8fb66d)
 - [Animating your keyboard (part 2): reacting to WindowInset animations](https://medium.com/androiddevelopers/animating-your-keyboard-reacting-to-inset-animations-839be3d4c31b)
 - [Window Insets and Keyboard Animations Tutorial for Android 11](https://www.raywenderlich.com/18393648-window-insets-and-keyboard-animations-tutorial-for-android-11)
+
 ## Views
 
 ### Custom views
@@ -78,6 +81,7 @@
 - [Custom Android Views: Graph View and Drawing on the Canvas](https://medium.com/@supahsoftware/custom-android-views-graph-view-and-drawing-on-the-canvas-d03c2ea2b703)
 - [Custom Android Views: Search View and Circular Reveal Animations](https://medium.com/@supahsoftware/custom-android-views-search-view-and-circular-reveal-animations-7bf2dadc800)
 - [Custom Android Views: Carousel RecyclerView](https://medium.com/@supahsoftware/custom-android-views-carousel-recyclerview-7b9318d23e9a)
+- [Messengers-like ImageView](https://proandroiddev.com/messengers-like-imageview-90e9f1da19f4)
 
 ### Android Canvas
 - [Getting Started with Android Canvas Drawing](https://medium.com/over-engineering/getting-started-with-drawing-on-the-android-canvas-621cf512f4c7)
@@ -109,6 +113,7 @@
 - [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
 - [Suspending over views — example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
 - [Android: Using Physics-based Animations in Custom Views](https://medium.com/over-engineering/android-using-physics-based-animations-in-custom-views-springanimation-5c3a70c0dd0d)
+- [Complex UI/Animations on Android](https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4)
 
 ## Gestures
 
@@ -117,15 +122,40 @@
 - [Gesture Navigation: handling gesture conflicts (III)](https://medium.com/androiddevelopers/gesture-navigation-handling-gesture-conflicts-8ee9c2665c69)
 - [Gesture Navigation: immersive modes (IV)](https://medium.com/androiddevelopers/gesture-navigation-immersive-modes-43f2d37a925d)
 
+## Material Components & Layouts
+
+### ConstraintLayout, MotionLayout
+
+- [Guide to ConstraintLayout](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013)
+- [Exploring the new Android ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
+- [Introducing Constraint Layout 2.0](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
+- [ConstraintLayout Chains](https://medium.com/@nomanr/constraintlayout-chains-4f3b58ea15bb)
+- [Introducing Constraint Layout 1.1](https://medium.com/androiddevelopers/introducing-constraint-layout-1-1-d07fc02406bc)
+- [Constraint Layout 2.0 — Flow Tag Introduction](https://medium.com/@nickand/constraint-layout-2-0-flow-layout-introduction-539350ef994d)
+- [A Battle towards Performance- Constraint Layout vs Other Layouts(Part -1)](https://proandroiddev.com/constraintlayout-vs-other-layouts-a-battle-towards-performance-part-1-14d8116e876e)
+- [ConstraintLayout Flow, Bye Bye to LinerLayout??](https://medium.com/@tapanrgohil/constraintlayout-flow-bye-bye-to-linerlayout-78fd7fa9b679)
+- [ConstraintLayout Flow: Simple Grid Building Without Nested Layouts](https://www.bignerdranch.com/blog/constraintlayout-flow-simple-grid-building-without-nested-layouts/)
+- [Awesomeness of ConstraintLayout Flow](https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df)
+
+**MotionLayout**
+- [Introduction to MotionLayout (part I)](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
+- [Introduction to MotionLayout (part II)](https://medium.com/google-developers/introduction-to-motionlayout-part-ii-a31acc084f59)
+- [Introduction to MotionLayout (part III)](https://medium.com/google-developers/introduction-to-motionlayout-part-iii-47cd64d51a5)
+- [Defining motion paths in MotionLayout](https://medium.com/google-developers/defining-motion-paths-in-motionlayout-6095b874d37)
+- [Complex UI/Animations on Android — featuring MotionLayout](https://proandroiddev.com/complex-ui-animations-on-android-featuring-motionlayout-aa82d83b8660)
+- [Circular carousel with MotionLayout](https://medium.com/@rodrigomartind/circular-carousel-with-motionlayout-658d9c44c925)
+
 ## RecyclerView
 
 - [Anatomy of RecyclerView. Part 1](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
 - [Anatomy of RecyclerView. Part 2](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-continued-d81c631a2b91)
+- [How RecyclerView works internally?](https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4)
 - [How to Cook the 60 FPS RecyclerView?](https://medium.com/rosberryapps/how-to-cook-the-60-fps-recyclerview-3e7f3885a55)
 - [Smooth RecyclerView Scrolling in Android](https://medium.com/@polson55/smooth-recyclerview-scrolling-in-android-57e7a9b71ca7)
 - [A guide to recyclerview-selection](https://proandroiddev.com/a-guide-to-recyclerview-selection-3ed9f2381504)
 - [Smooth cross RecyclingViews Swipe](https://medium.com/mobile-app-development-publication/smooth-cross-recyclingviews-swipe-cc2810e13e0a)
 - [Add extra depth to your list using parallax](https://medium.com/@patrick.elmquist/add-extra-depth-to-your-list-using-parallax-eddb27b369de)
+- [Update recycler view content without refreshing the data](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
 
 ### Adapter
 
