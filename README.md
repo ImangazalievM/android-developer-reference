@@ -38,8 +38,9 @@
 - [Fragments](android_sdk.md#fragments)
 - [Services](android_sdk.md#services)
 - [Permissions](android_sdk.md#permissions)
-- Notifications, Channels
-- MediaSessions
+- [Android Manifest](android_sdk.md#android-manifest)
+- [Notifications, Channels](android_sdk.md#notifications-channels)
+- [MediaSessions](android_sdk.md#mediasessions)
 - [Resources](android_sdk.md#resources)
 - [File system](android_sdk.md#file-system)
 
