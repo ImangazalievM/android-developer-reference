@@ -47,14 +47,16 @@
 ## [Android UI](android_ui.md)
 - [**App styling**](android_ui.md#app-styling)
 - [**Views**](android_ui.md#views):
-  - Custom views
-  - View Outline
-  - Android Canvas
+  - [Custom views](android_ui.md#custom-views)
+  - [View Outline]()
+  - [Android Canvas](android_ui.md#android-canvas)
 - [**Animations**](android_ui.md#animations):
   - Android Transitions
   - ValueAnimator and ObjectAnimator
-- [**Material Components**](android_ui.md#material-components):
-  - CoordinatorLayout, AppBarLayout
+- [**Gestures**](android_ui.md#gestures)
+- [**Material Components & Layouts**](android_ui.md#material-components--layouts):
+  - [CoordinatorLayout, AppBarLayout](#coordinatorlayout-appbarlayout)
+  - [ConstraintLayout, MotionLayout](#constraintlayout-motionlayout)
 - [**RecyclerView**](android_ui.md#recyclerview):
   - [Adapter](android_ui.md#adapter):
   - [ItemDecoration](android_ui.md#itemdecoration):
