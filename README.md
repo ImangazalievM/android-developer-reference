@@ -70,7 +70,7 @@
 - [SOLID](app_architecture.md#solid)
 - [GoF patterns](app_architecture.md#gof-patterns)
 - [Clean Architecture](app_architecture.md#clean-architecture)
-- [MVP](app_architecture.md#mvp)
+- [MVP](app_architecture.md#mvpmvc)
 - [MVVM](app_architecture.md#mvvm)
 - [MVI/Elm](app_architecture.md#mvielm)
 
