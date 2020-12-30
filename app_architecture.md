@@ -1,7 +1,7 @@
 # App architecture
 
 - [SOLID](#solid)
-- [GoF patterns]#gof-patterns)
+- [GoF patterns](#gof-patterns)
 - [Clean Architecture](#clean-architecture)
 - [MVP](#mvpmvc)
 - [MVVM](#mvvm)
