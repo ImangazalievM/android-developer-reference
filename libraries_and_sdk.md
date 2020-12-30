@@ -19,7 +19,7 @@ ___
 
 ## RxJava
 
-
+- [Building a Reactive Mindset](https://medium.com/upday-devs/building-a-reactive-mindset-78a299160729)
 
 ## Retrofit&OkHttp
 
