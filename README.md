@@ -72,7 +72,7 @@
 - [Clean Architecture](app_architecture.md#clean-architecture)
 - [MVP](app_architecture.md#mvp)
 - [MVVM](app_architecture.md#mvvm)
-- [MVI/Elm](app_architecture.md#mvi-elm)
+- [MVI/Elm](app_architecture.md#mvielm)
 
 ##  [Jetpack](jetpack.md)
 - [App Startup](jetpack.md#app-startup)
