@@ -1,19 +1,28 @@
 # App architecture
 
-- SOLID
-- GoF patterns
-- Clean Architecture
-- MVP
-- MVVM
-- MVI/Elm
+- [SOLID](#solid)
+- [GoF patterns]#gof-patterns)
+- [Clean Architecture](#clean-architecture)
+- [MVP](#mvpmvc)
+- [MVVM](#mvvm)
+- [MVI/Elm](#mvielm)
 
 ## Clean Architecture
 
 - [CleanArchitectureManifest](https://github.com/ImangazalievM/CleanArchitectureManifest)
 
-## MVP
+## MVP/MVC
+
+- [MVP for Android: how to organize the presentation layer](https://antonioleiva.com/mvp-android)
+- [Model View Presenter(MVP) in Android with a simple demo project](https://medium.com/cr8resume/make-you-hand-dirty-with-mvp-model-view-presenter-eab5b5c16e42)
+- [Android MVP for Beginners](https://android.jlelse.eu/android-mvp-for-beginners-25889c500443)
+- [Getting Started with MVP (Model View Presenter) on Android](https://www.raywenderlich.com/7026-getting-started-with-mvp-model-view-presenter-on-android)
+- [Android Architecture Patterns Part 2: Model-View-Presenter](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
+- [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
 
 ## MVVM
+
+- [Android Architecture Patterns Part 3: Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 
 ## MVI/Elm
 
