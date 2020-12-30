@@ -8,6 +8,7 @@
 - [Paging library](#paging-library)
 - [ViewModel](#viewmodel)
 - [WorkManager](#workmanager)
+- [Room](#room)
 
 ## App Startup
 - [App Startup, Part 1](https://medium.com/androiddevelopers/app-startup-part-1-34f57b65cacd)
@@ -55,3 +56,11 @@
 - [Use WorkManager for immediate background execution](https://medium.com/androiddevelopers/use-workmanager-for-immediate-background-execution-a57db502603d)
 - [WorkManager basics, how to use WorkManager with Rxjava2 & Kotlin Coroutines](https://medium.com/swlh/workmanager-basics-how-to-use-workmanager-with-rxjava2-kotlin-coroutines-c2a317197038)
 - [Working With WorkManager in Android Like A Pro](https://medium.com/mindorks/work-manager-in-android-9cdb66c9a1df)
+
+## Room
+
+- [7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
+- [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
+- [Incrementally migrate from SQLite to Room]
+- [Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
+- [Room 🔗 RxJava](https://medium.com/androiddevelopers/room-rxjava-acb0cd4f3757)
