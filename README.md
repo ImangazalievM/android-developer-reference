@@ -83,6 +83,7 @@
 - [Paging library](jetpack.md#paging-library)
 - [ViewModel](jetpack.md#viewmodel)
 - [WorkManager](jetpack.md#workmanager)
+- [Room](jetpack.md#room)
 
 ##  Firebase
 - Crashlytics
