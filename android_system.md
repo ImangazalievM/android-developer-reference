@@ -4,14 +4,14 @@
   - [Zygote](#zygote)
   - [Dalvik & ART](#dalvik--art)
   - [APK file](#apk-file)
-- Android Versions
-  - Android 5/5.1 (L - API level 21/22)
-  - Android 6 (M - 23)
-  - Android 7/7.1 (N - 24/25)
-  - Android 8/8.1 (O - 26-27)
-  - Android 9 (P - 28)
-  - Android 10 (Q - 29)
-  - Android 11 (R - 30)
+- [Android Versions](#android-versions)
+  - [Android 5/5.1](#android-551)
+  - [Android 6](#android-6)
+  - [Android 7/7.1](#android-771)
+  - [Android 8/8.1](#android-881)
+  - [Android 9](#android-9)
+  - [Android 10](#android-10)
+  - [Android 11](#android-11)
 
 ## Android anathomy
 
