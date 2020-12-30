@@ -1,9 +1,9 @@
 # Android System
 
 - Android anathomy:
-  - Zygote
-  - Dalvik & ART
-  - [APK file]
+  - [Zygote](#zygote)
+  - [Dalvik & ART](#dalvik--art)
+  - [APK file](#apk-file)
 - Android Versions
   - Android 5/5.1 (L - API level 21/22)
   - Android 6 (M - 23)
