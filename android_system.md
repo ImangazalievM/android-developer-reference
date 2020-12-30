@@ -3,7 +3,7 @@
 - Android anathomy:
   - Zygote
   - Dalvik & ART
-  - App startup process
+  - [APK file]
 - Android Versions
   - Android 5/5.1 (L - API level 21/22)
   - Android 6 (M - 23)
@@ -18,6 +18,10 @@
 ### Zygote
 
 ### Dalvik & ART
+
+### APK file
+
+- [From Code to Dex — A Compilation Story](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
 
 ## Android Versions
 
