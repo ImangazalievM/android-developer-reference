@@ -101,6 +101,7 @@
 
 - [Spantastic text styling with Spans](https://medium.com/androiddevelopers/spantastic-text-styling-with-spans-17b0c16b4568)
 - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
+- [Underspanding spans](https://medium.com/androiddevelopers/underspanding-spans-1b91008b97e4)
 - [Working with spans in Android](https://programmerr47.medium.com/working-with-spans-in-android-ca4ab1327bc4)
 
 ### ViewPager
