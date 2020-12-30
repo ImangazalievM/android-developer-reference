@@ -19,16 +19,17 @@
 ## [Android System](android_system.md)
 
 - [Android anathomy:](android_system.md#android-anathomy)
-  - Zygote
-  - Dalvik & ART
-  - App startup process
+  - [Zygote](android_system.md#zygote)
+  - [Dalvik & ART](android_system.md#dalvik--art)
+  - [APK file](android_system.md#apk-file)
 - [Android Versions](android_system.md#android-versions)
-  - Android 5/5.1 (API level 21/22)
-  - Android 6 (23)
-  - Android 7/7.1 (24/25)
-  - Android 8/8.1 (26-27)
-  - Android 9 (28)
-  - Android 10 (29)
+  - [Android 5/5.1](#android_system.md#android-551)
+  - [Android 6](#android_system.md#android-6)
+  - [Android 7/7.1](#android_system.md#android-771)
+  - [Android 8/8.1](#android_system.md#android-881)
+  - [Android 9](#android_system.md#android-9)
+  - [Android 10](#android_system.md#android-10)
+  - [Android 11](#android_system.md#android-11)
 
 ## [Android SDK](android_sdk.md)
 - [Activity & Intent](android_sdk.md#activity--intent)
