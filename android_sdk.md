@@ -11,8 +11,8 @@
 - [Permissions](#permissions)
 - [Notifications, Channels](#notifications--channels)
 - [MediaSessions](#mediasessions)
-- [Resources](#resources)
 - [Widgets](#widgets)
+- [Resources](#resources)
 - [Database, Preferences](#database-preferences)
 - [File system](#file-system)
 
