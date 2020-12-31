@@ -151,6 +151,7 @@
 - https://proandroiddev.com
 - https://medium.com/mindorks
 - https://android.jlelse.eu/
+- https://infinum.com/handbook/books/android
 
 ### Digests
 - https://androidweekly.net
