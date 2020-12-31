@@ -62,5 +62,6 @@
 - [7 Steps To Room](https://medium.com/androiddevelopers/7-steps-to-room-27a5fe5f99b2)
 - [7 Pro-tips for Room](https://medium.com/androiddevelopers/7-pro-tips-for-room-fbadea4bfbd1)
 - [Incrementally migrate from SQLite to Room](https://medium.com/androiddevelopers/incrementally-migrate-from-sqlite-to-room-66c2f655b377)
+- [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 - [Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
 - [Room 🔗 RxJava](https://medium.com/androiddevelopers/room-rxjava-acb0cd4f3757)
