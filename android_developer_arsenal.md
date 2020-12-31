@@ -1,4 +1,4 @@
-# Recommended libraries
+# Android Developer Arsenal
 
 - Architecture
   - Dependency Injection
