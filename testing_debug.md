@@ -20,6 +20,7 @@
 
 - [Stetho](https://github.com/facebookarchive/stetho) - A debug bridge for Android applications
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [leakcanary](https://github.com/square/leakcanary)
 
 ## Profiling & Optimization
 
