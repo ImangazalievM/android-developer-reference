@@ -89,11 +89,11 @@
 - [WorkManager](jetpack.md#workmanager)
 - [Room](jetpack.md#room)
 
-##  Firebase
-- Crashlytics
-- Realtime database
-- Messaging
-- Remote config
+##  [Firebase](firebase.md)
+- [Crashlytics](firebase.md#crashlytics)
+- [Realtime database](firebase.md#realtime-database)
+- [Messaging](firebase.md#messaging)
+- [Remote config](firebase.md#remote-config)
 
 ## [Libraries & SDKs](libraries_and_sdk.md)
 - [Android Developer Arsenal](android_developer_arsenal.md)
