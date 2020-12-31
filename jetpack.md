@@ -65,3 +65,4 @@
 - [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 - [Testing Room migrations](https://medium.com/androiddevelopers/testing-room-migrations-be93cdb0d975)
 - [Room 🔗 RxJava](https://medium.com/androiddevelopers/room-rxjava-acb0cd4f3757)
+- [Enabling SQLite FTS in Room 2.1](https://medium.com/@sienatime/enabling-sqlite-fts-in-room-2-1-75e17d0f0ff8)
