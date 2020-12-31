@@ -27,6 +27,12 @@ ___
 ## Fragments
 
 - [Fragments: rebuilding the internals](https://medium.com/androiddevelopers/fragments-rebuilding-the-internals-61913f8bf48e)
+- [Managing the Fragment Back Stack](https://medium.com/@bherbst/managing-the-fragment-back-stack-373e87e4ff62)
+- [Simplified Fragment Navigation, using a custom backstack and commitNow()\*](https://medium.com/@Zhuinden/simplified-fragment-navigation-using-a-custom-backstack-552e06961257)
+- [Simplifying the FragmentManager API: Multiple Fragment backstacks on Android](https://proandroiddev.com/simplifying-the-fragmentmanager-api-multiple-fragment-backstacks-on-android-9b64ddb0d654)
+- [How to Add a Fragment the Kotlin way](https://medium.com/thoughts-overflow/how-to-add-a-fragment-in-kotlin-way-73203c5a450b)
+- [Android Fragments: Common Queries & Mistakes](https://medium.com/better-programming/android-fragments-common-queries-mistakes-1c42e9f6b44f)
+- [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 
 ## Permissions
 
