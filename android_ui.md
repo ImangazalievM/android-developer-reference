@@ -74,6 +74,7 @@
 ## Views
 
 - [Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
+- [The little secret of android:animateLayoutChanges](https://proandroiddev.com/the-little-secret-of-android-animatelayoutchanges-e4caab2fddec)
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
