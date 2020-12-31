@@ -1,8 +1,8 @@
 ## [Testing & Debug](testing_debug.md)
-- Unit-testing
-- UI-testing
-- Debug tools
-- Profiling & Optimization
+- [Unit-testing](#unit-testing)
+- [UI-testing](#ui-testing)
+- [Debug tools](#debug-tools)
+- [Profiling & Optimization](#profiling--optimization)
 
 ## Unit-testing
 
