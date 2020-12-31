@@ -22,6 +22,7 @@ ___
 
 - [Null is your friend, not a mistake](https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 - [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
+- [Kotlin: Don’t just use LET for null check](https://medium.com/mobile-app-development-publication/kotlin-dont-just-use-let-7e91f544e27f)
 
 ### Inline functions
 
