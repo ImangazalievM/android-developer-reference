@@ -123,19 +123,24 @@
 - [Docker-containers](devops.md#docker-containers)
 - [Testing farm](devops.md#testing-farm)
 
-## Android NDK
-- C++ versions
-- Make-files syntax
-- Data structures: vector, map, etc
-- Standart library:
+## [Android NDK](android_ndk.md)
+- C++ language
+  - Syntax
+- C++ Standart library:
+  - Data structures: vector, map, etc
+  - Work with strings
   - Math operations
   - Date and time
-  - Work with strings
-- Files
-- Database
-- Images
-- Audio
-- Fonts
+- Android NDK
+  - JNI
+  - CMake
+- Libraries
+- Misc 
+  - Files
+  - Database
+  - Images
+  - Audio
+  - Fonts
 
 ## Misc
 - Data structures
