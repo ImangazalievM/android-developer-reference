@@ -30,6 +30,7 @@
 - [Android Styling: prefer theme attributes](https://medium.com/androiddevelopers/android-styling-prefer-theme-attributes-412caa748774)
 - [Android styling: common theme attributes](https://medium.com/androiddevelopers/android-styling-common-theme-attributes-8f7c50c9eaba)
 - [Android styling: themes vs styles](https://medium.com/androiddevelopers/android-styling-themes-vs-styles-ebe05f917578)
+- [Android Themes & styles, a real architecture](https://blog.octo.com/en/android-themes-styles-a-real-architecture/)
 - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 - [DayNight — Adding a dark theme to your app](https://medium.com/androiddevelopers/appcompat-v23-2-daynight-d10f90c83e94)
 - [Dark Mode Musings: Beware of the Context](https://medium.com/over-engineering/dark-mode-musings-beware-of-the-context-59baefc3864d)
@@ -71,6 +72,8 @@
 - [Window Insets and Keyboard Animations Tutorial for Android 11](https://www.raywenderlich.com/18393648-window-insets-and-keyboard-animations-tutorial-for-android-11)
 
 ## Views
+
+- [Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
@@ -148,6 +151,7 @@
 - [ConstraintLayout Flow, Bye Bye to LinerLayout??](https://medium.com/@tapanrgohil/constraintlayout-flow-bye-bye-to-linerlayout-78fd7fa9b679)
 - [ConstraintLayout Flow: Simple Grid Building Without Nested Layouts](https://www.bignerdranch.com/blog/constraintlayout-flow-simple-grid-building-without-nested-layouts/)
 - [Awesomeness of ConstraintLayout Flow](https://proandroiddev.com/awesomeness-of-constraintlayout-flow-aa0b5edd5df)
+- [Beautiful animations using Android ConstraintLayout](https://robinhood.engineering/beautiful-animations-using-android-constraintlayout-eee5b72ecae3)
 
 **MotionLayout**
 - [Introduction to MotionLayout (part I)](https://medium.com/google-developers/introduction-to-motionlayout-part-i-29208674b10d)
