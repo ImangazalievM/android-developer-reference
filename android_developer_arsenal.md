@@ -21,6 +21,7 @@
 
 - Toothpick
 - Dagger 2
+- [Koin](https://github.com/InsertKoinIO/koin)
 
 ### Presentation layer
 - Moxy
@@ -52,8 +53,11 @@
 
 ## Android UI
 
-- Glide
-- Lottie
+- [Picasso](https://github.com/square/picasso)
+- [Glide](https://github.com/bumptech/glide)
+- [Fresco](https://github.com/facebook/fresco)
+- [Lottie](https://github.com/airbnb/lottie-android)
+- (uCrop)(https://github.com/Yalantis/uCrop)
 
 ### Dialogs
 
