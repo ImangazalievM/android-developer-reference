@@ -12,8 +12,9 @@
 - [Notifications, Channels](#notifications--channels)
 - [MediaSessions](#mediasessions)
 - [Resources](#resources)
-- [File system](#file-system)
 - [Widgets](#widgets)
+- [Database, Preferences](#database-preferences)
+- [File system](#file-system)
 
 ___
 
@@ -35,8 +36,11 @@ ___
 ## Resources
 - [The Ultimate Guide to Android App I18n and L10n](https://proandroiddev.com/the-ultimate-guide-to-android-app-internationalization-and-localization-89b6c33fe741)
 
-## File system
-
 ## Widgets
 
+## Database, Preferences
 
+- [Squeezing Performance from SQLite: Insertions](https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2)
+
+## File system
+- 
