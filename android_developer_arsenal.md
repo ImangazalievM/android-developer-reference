@@ -57,7 +57,7 @@
 - [Glide](https://github.com/bumptech/glide)
 - [Fresco](https://github.com/facebook/fresco)
 - [Lottie](https://github.com/airbnb/lottie-android)
-- (uCrop)(https://github.com/Yalantis/uCrop)
+- [uCrop](https://github.com/Yalantis/uCrop)
 
 ### Dialogs
 
