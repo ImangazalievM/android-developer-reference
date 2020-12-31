@@ -16,14 +16,19 @@
 ## Android Internals
 
 - [Who lives and who dies? Process priorities on Android](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.565lzw8kv)
+- [Android Internals #1: How Android Starts Your Main Activity](https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222)
 
 ### Zygote
 
 ### Dalvik & ART
 
+- [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
+- [Android Internals: ART vs DVM deep dive](https://android.jlelse.eu/android-internals-art-vs-dvm-deep-dive-def34cf664d7)
+
 ### APK file
 
 - [From Code to Dex — A Compilation Story](https://medium.com/upday-devs/from-code-to-dex-a-compilation-story-e1d62f63ad6a)
+- [The internals of Android APK build process](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20)
 
 ## Android Versions
 
