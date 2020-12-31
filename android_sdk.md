@@ -15,6 +15,7 @@
 - [Resources](#resources)
 - [Database, Preferences](#database-preferences)
 - [File system](#file-system)
+- [Security](#security)
 
 ___
 
@@ -50,3 +51,7 @@ ___
 
 ## File system
 - 
+
+## Security
+
+- [App security best practices](https://developer.android.com/topic/security/best-practices)
