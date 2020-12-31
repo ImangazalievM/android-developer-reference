@@ -10,13 +10,17 @@ ___
 
 ## Basics
 
-- [Null is your friend, not a mistake](https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 - [Zero-cost* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
 - [Alter type with typealias](https://medium.com/androiddevelopers/alter-type-with-typealias-4c03302fbe43)
 - [Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
 - [Kotlin and Exceptions](https://elizarov.medium.com/kotlin-and-exceptions-8062f589d07)
 - [Extension-oriented design](https://elizarov.medium.com/extension-oriented-design-13f4f27deaee)
 - [Delegation Pattern in Kotlin](https://medium.com/yellowme/delegation-pattern-in-kotlin-a0ce5c5bb89f)
+
+### Nullability
+
+- [Null is your friend, not a mistake](https://elizarov.medium.com/null-is-your-friend-not-a-mistake-b63ff1751dd5)
+- [How to remove all !! from your Kotlin code](https://android.jlelse.eu/how-to-remove-all-from-your-kotlin-code-87dc2c9767fb)
 
 ### Inline functions
 
