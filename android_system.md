@@ -15,6 +15,8 @@
 
 ## Android anathomy
 
+- [Who lives and who dies? Process priorities on Android](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.565lzw8kv)
+
 ### Zygote
 
 ### Dalvik & ART
