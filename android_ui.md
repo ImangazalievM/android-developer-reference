@@ -78,6 +78,8 @@
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
+- [Android: draw a custom view](https://proandroiddev.com/android-draw-a-custom-view-ef79fe2ff54b)
+- [Android: bring life to your custom view](https://proandroiddev.com/android-bring-life-to-your-custom-view-8604ab3967b3)
 - [How to test a custom Android view with Robolectric](https://plusmobileapps.com/2020/12/14/android-custom-view-testing.html)
 - [Custom view from scratch. Part I](https://medium.com/revolut/custom-view-from-scratch-part-i-931178481903)
 - [Custom view from scratch. Part II. Canvas](https://medium.com/revolut/custom-view-from-scratch-part-ii-canvas-74982b1d2d7c)
@@ -86,6 +88,9 @@
 - [Custom Android Views: Search View and Circular Reveal Animations](https://medium.com/@supahsoftware/custom-android-views-search-view-and-circular-reveal-animations-7bf2dadc800)
 - [Custom Android Views: Carousel RecyclerView](https://medium.com/@supahsoftware/custom-android-views-carousel-recyclerview-7b9318d23e9a)
 - [Messengers-like ImageView](https://proandroiddev.com/messengers-like-imageview-90e9f1da19f4)
+- [Android Custom View Level 1 Basic Terms and Creation of Custom View](https://proandroiddev.com/android-custom-view-level-1-67ed1c3febe1)
+- [Android Custom Views Level 2 AttributeSet](https://proandroiddev.com/android-custom-views-level-2-7a0f110a2ce9)
+- [Android Custom View Level 3 View Life-Cycle](https://proandroiddev.com/android-custom-view-level-3-81e767c8cc75)
 
 ### Android Canvas
 - [Getting Started with Android Canvas Drawing](https://medium.com/over-engineering/getting-started-with-drawing-on-the-android-canvas-621cf512f4c7)
