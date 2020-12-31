@@ -43,10 +43,16 @@
 ## Navigation
 
 - [Navigation](https://developer.android.com/guide/navigation)
+- 📺 [Navigation: Overview - MAD Skills](https://youtu.be/xITkfPIaStU)
 - [Navigation Component: An Overview](https://medium.com/androiddevelopers/navigation-component-an-overview-4697a208c2b5)
-- [Navigating with SafeArgs](https://medium.com/androiddevelopers/navigating-with-safeargs-bf26c17b1269)
+- 📺 [Navigation: Dialog destinations - MAD Skills](https://youtu.be/OfEOYxWVRTM)
 - [Navigating to Dialog Destinations](https://medium.com/androiddevelopers/navigation-component-dialog-destinations-bfeb8b022759)
+- 📺 [Navigation: SafeArgs - MAD Skills](https://youtu.be/8I8Xykqn4hk)
+- [Navigating with SafeArgs](https://medium.com/androiddevelopers/navigating-with-safeargs-bf26c17b1269)
+- 📺 [Navigation: Deep links - MAD Skills](https://youtu.be/XJgPIeolJu8)
 - [Navigating with Deep Links](https://medium.com/androiddevelopers/navigating-with-deep-links-910a4a6588c)
+- 📺 [Navigation: Live Q&A - MAD Skills](https://youtu.be/RC5bwJ4u9T8)
+- 💾 [MADSkillsNavigationSample](https://github.com/android/architecture-components-samples/tree/main/MADSkillsNavigationSample)
 
 ## WorkManager
 
