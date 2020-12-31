@@ -46,6 +46,7 @@
 - [Resources](android_sdk.md#resources)
 - [Database, Preferences](android_sdk.md#database-preferences)
 - [File system](android_sdk.md#file-system)
+- [Security](android_sdk.md#security)
 
 ## [Android UI](android_ui.md)
 - [**App styling**](android_ui.md#app-styling)
