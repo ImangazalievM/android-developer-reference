@@ -24,6 +24,8 @@
 
 ## Gradle
 
+- [Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
+
 ### Annotation Processing
 
 - [Annotation processing 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
