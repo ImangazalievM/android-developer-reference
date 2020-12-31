@@ -1,9 +1,9 @@
 # Tools
 - [Android Studio](#android-studio)
 - [Gradle](#gradle)
-- Code Quality
- - Annotation Processing
- - Code protection
+ - [Annotation Processing](#annotation-processing)
+ - [Code protection](#code-protection)
+- [Code Quality](#code-quality)
 - [App Bundle](#app-bundle)
 - [Dynamic Feature Modules](#dynamic-feature-modules)
 
@@ -23,10 +23,6 @@
 - [Configuration caching deep dive](https://medium.com/androiddevelopers/configuration-caching-deep-dive-bcb304698070)
 - [Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
 
-## Code Quality
-
-- [Android Lint Framework — An Introduction](https://proandroiddev.com/android-lint-framework-an-introduction-36139deedf8b)
-
 ## Gradle
 
 - [Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
@@ -39,6 +35,10 @@
 
 - [Android App Bundles](https://developer.android.com/guide/app-bundle)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+
+## Code Quality
+
+- [Android Lint Framework — An Introduction](https://proandroiddev.com/android-lint-framework-an-introduction-36139deedf8b)
 
 ## Dynamic Feature Modules
 
