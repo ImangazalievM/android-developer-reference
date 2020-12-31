@@ -18,7 +18,7 @@
 
 ## [Android System](android_system.md)
 
-- [Android anathomy:](android_system.md#android-anathomy)
+- [Android Internals:](android_system.md#android-internals)
   - [Zygote](android_system.md#zygote)
   - [Dalvik & ART](android_system.md#dalvik--art)
   - [APK file](android_system.md#apk-file)
