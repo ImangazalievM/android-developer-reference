@@ -110,8 +110,9 @@
 ## [Tools](tools.md)
 - [Android Studio](tools.md#android-studio)
 - [Gradle](tools.md#gradle)
- - Annotation Processing
- - Code protection
+ - [Annotation Processing](tools.md#annotation-processing)
+ - [Code protection](tools.md#code-protection)
+- [Code Quality](tools.md#code-quality)
 - [App Bundle](tools.md#app-bundle)
 - [Dynamic Feature Modules](tools.md#dynamic-feature-modules)
 
@@ -123,8 +124,6 @@
 - [Testing farm](devops.md#testing-farm)
 
 ## Android NDK
-(С++ Roadmap)
-
 - C++ versions
 - Make-files syntax
 - Data structures: vector, map, etc
