@@ -1,19 +1,19 @@
 # Android System
 
-- Android anathomy:
+- [**Android Internals**](#android-internals):
   - [Zygote](#zygote)
   - [Dalvik & ART](#dalvik--art)
   - [APK file](#apk-file)
-- [Android Versions](#android-versions)
-  - [Android 5/5.1](#android-551)
-  - [Android 6](#android-6)
-  - [Android 7/7.1](#android-771)
-  - [Android 8/8.1](#android-881)
-  - [Android 9](#android-9)
-  - [Android 10](#android-10)
-  - [Android 11](#android-11)
+- [**Android Versions**](#android-versions)
+  - [Android 5/5.1 (L - API level 21/22)](#android-551)
+  - [Android 6 (M - 23)](#android-6)
+  - [Android 7/7.1 (N - 24/25)](#android-771)
+  - [Android 8/8.1 (O - 26-27)](#android-881)
+  - [Android 9 (P - 28)](#android-9)
+  - [Android 10 (Q - 29)](#android-10)
+  - [Android 11 (R - 30)](#android-11)
 
-## Android anathomy
+## Android Internals
 
 - [Who lives and who dies? Process priorities on Android](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.565lzw8kv)
 
@@ -53,7 +53,10 @@
 
 ### Android 8/8.1
 
-
+- [Random Musings on the O Developer Preview 3](https://commonsware.com/blog/2017/06/08/random-musings-o-developer-preview-3.html)
+- [Hidden Gems of Android O](https://medium.com/@ianhlake/hidden-gems-of-android-o-7def63136629)
+- [Android O and the Implicit Broadcast Ban](https://commonsware.com/blog/2017/04/11/android-o-implicit-broadcast-ban.html)
+- [O-h yeah! What we look forward to in Android O](https://blog.novoda.com/o-h-yeah-what-we-look-forward-to-in-android-o/)
 
 ### Android 9
 
