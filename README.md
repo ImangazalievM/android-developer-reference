@@ -157,6 +157,7 @@
 - https://medium.com/mindorks
 - https://android.jlelse.eu/
 - https://infinum.com/handbook/books/android
+- https://mindorks.com/
 
 ### Digests
 - https://androidweekly.net
