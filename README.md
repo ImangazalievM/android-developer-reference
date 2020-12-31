@@ -42,7 +42,9 @@
 - [Android Manifest](android_sdk.md#android-manifest)
 - [Notifications, Channels](android_sdk.md#notifications-channels)
 - [MediaSessions](android_sdk.md#mediasessions)
+- [Widgets](android_sdk.md#widgets)
 - [Resources](android_sdk.md#resources)
+- [Database, Preferences](android_sdk.md#database-preferences)
 - [File system](android_sdk.md#file-system)
 
 ## [Android UI](android_ui.md)
