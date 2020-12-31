@@ -36,7 +36,7 @@
 - [ViewModel Overview](https://developer.android.com/topic/libraries/architecture/viewmodel)
 - [Android ViewModels: Under the hood](https://medium.com/mindorks/android-viewmodels-under-the-hood-ddc679d77dd5)
 
-# Paging library
+## Paging library
 
 - [Paging library overview](https://developer.android.com/topic/libraries/architecture/paging)
 
