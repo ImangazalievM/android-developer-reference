@@ -6,10 +6,18 @@
 
 ## Unit-testing
 
+- [Spek](https://www.spekframework.org/setup-android/) - Test running framework for Kotlin
+- [MockK](https://mockk.io/) - Mocking library for Kotlin
+- [Strilt](https://strikt.io/) - An assertion library for Kotlin
+
 ## UI-testing
+
+- [Kakao](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+- [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework
 
 ## Debug tools
 
+- [Stetho](https://github.com/facebookarchive/stetho) - A debug bridge for Android applications
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## Profiling & Optimization
