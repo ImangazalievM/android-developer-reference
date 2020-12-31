@@ -1,6 +1,7 @@
 # Tools
 - [Android Studio](#android-studio)
 - [Gradle](#gradle)
+- Code Quality
  - Annotation Processing
  - Code protection
 - [App Bundle](#app-bundle)
@@ -21,6 +22,10 @@
 - [Design Tools Suite UX enhancements in Android Studio 4.1](https://medium.com/androiddevelopers/design-tools-suite-ux-enhancements-in-android-studio-4-1-60c11f54ddb0)
 - [Configuration caching deep dive](https://medium.com/androiddevelopers/configuration-caching-deep-dive-bcb304698070)
 - [Understanding your build with the Build Analyzer](https://medium.com/androiddevelopers/understanding-your-build-with-the-build-analyzer-5c15688ec72e)
+
+## Code Quality
+
+- [Android Lint Framework — An Introduction](https://proandroiddev.com/android-lint-framework-an-introduction-36139deedf8b)
 
 ## Gradle
 
