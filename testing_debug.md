@@ -1,4 +1,4 @@
-## [Testing & Debug](testing_debug.md)
+# Testing & Debug
 - [Unit-testing](#unit-testing)
 - [UI-testing](#ui-testing)
 - [Debug tools](#debug-tools)
