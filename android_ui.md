@@ -103,6 +103,7 @@
 - [What’s your text’s appearance?](https://medium.com/androiddevelopers/whats-your-text-s-appearance-f3a1729192d)
 - [Underspanding spans](https://medium.com/androiddevelopers/underspanding-spans-1b91008b97e4)
 - [Working with spans in Android](https://programmerr47.medium.com/working-with-spans-in-android-ca4ab1327bc4)
+- [Creating custom Text Selection actions with ACTION_PROCESS_TEXT](https://medium.com/androiddevelopers/custom-text-selection-actions-with-action-process-text-191f792d2999#.v9tqu854k)
 
 ### ViewPager
 
@@ -115,6 +116,15 @@
 - [Suspending over views — example](https://medium.com/androiddevelopers/suspending-over-views-example-260ce3dc9100)
 - [Android: Using Physics-based Animations in Custom Views](https://medium.com/over-engineering/android-using-physics-based-animations-in-custom-views-springanimation-5c3a70c0dd0d)
 - [Complex UI/Animations on Android](https://proandroiddev.com/complex-ui-animation-on-android-8f7a46f4aec4)
+- [Workcation App – Part 2. Animating Markers with MapOverlayLayout](https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout)
+- [Workcation App – Part 3. RecyclerView interaction with Animated Markers](https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/)
+- [How We Developed Jelly ToolBar Animation for Android in Kotlin](https://yalantis.com/blog/toolbar-jelly-animation-kotlin-android/)
+
+### Transitions
+- [Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb)
+- [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
+- [Workcation App – Part 1. Fragment custom transition]
+- [Workcation App – Part 4. Shared Element Transition with RecyclerView and Scenes](https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes)
 
 ## Gestures
 
@@ -127,6 +137,7 @@
 
 ### ConstraintLayout, MotionLayout
 
+- [ConstraintLayout.com](https://constraintlayout.com/)
 - [Guide to ConstraintLayout](https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013)
 - [Exploring the new Android ConstraintLayout](https://medium.com/exploring-android/exploring-the-new-android-constraintlayout-eed37fe8d8f1)
 - [Introducing Constraint Layout 2.0](https://medium.com/androiddevelopers/introducing-constraint-layout-2-0-9daa3e99995b)
