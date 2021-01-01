@@ -4,7 +4,7 @@
 - [Java Core SDK](java.md#java-core-sdk)
   - [Collections](java.md#collections)
   - [Reflection API](java.md#reflection-api)
-- [Concurrency and Multithreading](java.md#concurrency-and-multithreading)
+- [Concurrency](java.md#concurrency)
 - [JVM](java.md#jvm)
   - [Java Memory Model](java.md#java-memory-model)
   - [Garbage Collector](java.md#garbage-collector)
