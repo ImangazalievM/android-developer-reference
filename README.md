@@ -5,8 +5,8 @@
   - [Collections](java.md#collections)
   - [Reflection API](java.md#reflection-api)
 - [Concurrency](java.md#concurrency)
-- [JVM](java.md#jvm)
   - [Java Memory Model](java.md#java-memory-model)
+- [JVM](java.md#jvm)
   - [Garbage Collector](java.md#garbage-collector)
 
 ## [Kotlin](kotlin.md)
