@@ -1,4 +1,4 @@
-# Android Developer Reference
+![Android Developer Reference](./banner.png)
 
 ## [Java](java.md)
 - [Java Core SDK](java.md#java-core-sdk)
