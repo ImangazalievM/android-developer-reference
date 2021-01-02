@@ -26,7 +26,7 @@
 
 - [**Java Concurrency and Multithreading Tutorial**](http://tutorials.jenkov.com/java-concurrency/index.html)
 - [Chapter 17. Threads and Locks](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
-- [Creating and Starting Java Threads]
+- [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
 - [Thread Signaling](http://tutorials.jenkov.com/java-concurrency/thread-signaling.html)
 - [Java Concurrency: Thread Safety](https://medium.com/javarevisited/java-concurrency-thread-safety-1aac8ae66d2c)
 - [Java Concurrency: Thread Life Cycle](https://medium.com/javarevisited/java-concurrency-thread-life-cycle-4869432474b)
