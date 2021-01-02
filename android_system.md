@@ -72,10 +72,17 @@
 
 ### Android 8/8.1
 
+**What's new:**
+
+- Notification Channels
+
+**Articles:**
 - [Random Musings on the O Developer Preview 3](https://commonsware.com/blog/2017/06/08/random-musings-o-developer-preview-3.html)
 - [Hidden Gems of Android O](https://medium.com/@ianhlake/hidden-gems-of-android-o-7def63136629)
 - [Android O and the Implicit Broadcast Ban](https://commonsware.com/blog/2017/04/11/android-o-implicit-broadcast-ban.html)
 - [O-h yeah! What we look forward to in Android O](https://blog.novoda.com/o-h-yeah-what-we-look-forward-to-in-android-o/)
+- [Exploring Android O: Notification Channels](https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c)
+- [Notification in Android 8.0(oreo): Implementing Notification Channels]
 
 ### Android 9
 
