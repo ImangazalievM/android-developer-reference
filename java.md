@@ -1,6 +1,7 @@
 # Java
 
 - [Java Core SDK](#java-core-sdk)
+  - [Basics](#basics)
   - [Collections](#collections)
   - [Reflection API](#reflection-api)
 - [Concurrency](#concurrency)
@@ -9,7 +10,6 @@
   - ThreadLocal
   - Synchronization
   - Race Conditions
-  - 
 - [JVM](#jvm)
   - [Garbage Collector](#garbage-collector)
 ____
@@ -21,11 +21,23 @@ ____
 
 ## Java Core SDK
 
+- [java.io](https://www.tutorialspoint.com/java/io/index.htm)
+- [java.lang](https://www.tutorialspoint.com/java/lang/index.htm)
+- [java.lang.reflect](https://www.tutorialspoint.com/javareflect/index.htm)
+- [java.math](https://www.tutorialspoint.com/java/math/index.htm)
+- [java.nio](https://www.tutorialspoint.com/java_nio/index.htm)
+- [java.time](https://www.tutorialspoint.com/javatime/index.htm)
+- [java.regex](https://www.tutorialspoint.com/javaregex/index.htm)
+- [java.util](https://www.tutorialspoint.com/java/util/index.htm)
+___
+
+### Basics
 - [How (and why) to cook equals() and hashCode() in Java](https://itnext.io/how-and-why-to-cook-equals-and-hashcode-in-java-c108fd5b17dd)
 - [Java: final vs finally vs finalize](https://medium.com/@mykola.shumyn/java-final-vs-finally-vs-finalize-8842f43abdaa)
 
 ### Collections
 
+- [Java Generics Tutorial](https://www.tutorialspoint.com/java_generics/index.htm)
 - [All you need to know about ArrayMap & SparseArray](https://proandroiddev.com/all-you-need-to-know-about-arraymap-sparsearray-49759c2ecbf9)
 
 ## Concurrency
@@ -71,3 +83,5 @@ ___
 - [Deadlock](http://tutorials.jenkov.com/java-concurrency/deadlock.html)
 - [Deadlock Prevention](http://tutorials.jenkov.com/java-concurrency/deadlock-prevention.html)
 - [Java Concurrency: Deadlock](https://medium.com/javarevisited/java-concurrency-deadlock-f5b1078420f1)
+
+## JVM
