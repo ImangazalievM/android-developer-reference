@@ -40,6 +40,12 @@ ___
 - [Permissions on Android](https://developer.android.com/guide/topics/permissions/overview)
 - [When Coroutines Meet Android Permissions](https://medium.com/better-programming/when-coroutines-meet-android-permissions-a1f048e70f74)
 
+## Notifications
+
+- [Android Notification All-in-One](https://itnext.io/android-notification-all-in-one-8df3e1218e0e)
+- [Android Notifications — An elegant way to build and display](https://android.jlelse.eu/android-notifications-an-elegant-way-to-build-and-display-7771d65ba3a2)
+- [Android Notification Channel As Deep As Possible](https://itnext.io/android-notification-channel-as-deep-as-possible-1a5b08538c87)
+
 ## Resources
 - [The Ultimate Guide to Android App I18n and L10n](https://proandroiddev.com/the-ultimate-guide-to-android-app-internationalization-and-localization-89b6c33fe741)
 
@@ -50,8 +56,10 @@ ___
 - [Squeezing Performance from SQLite: Insertions](https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2)
 
 ## File system
-- 
+- [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
+- [Android Scoped Storage Demystified](https://medium.com/better-programming/android-scoped-storage-demystified-3024a062ba24)
+- [Handling Files in Code After Android 10 Released](https://android.jlelse.eu/handling-files-in-code-after-the-android-10-released-2bea0e16d35)
+- [Scoped Storage in Android 10 & Android 11](https://medium.com/microsoft-mobile-engineering/scoped-storage-in-android-10-android-11-28d58d989f3c)
 
 ## Security
-
 - [App security best practices](https://developer.android.com/topic/security/best-practices)
