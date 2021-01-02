@@ -87,6 +87,7 @@
 **What's new:**
 - Dark Theme
 - Sharing shortcuts
+- Scoped storage
 
 **Articles:**
 - [Exploring Android Q: Bubbles](https://joebirch.co/android/exploring-android-q-bubbles/)
