@@ -144,6 +144,10 @@
 
 ## Material Components & Layouts
 
+### CoordinatorLayout, AppBarLayout
+
+- [Intercepting everything with CoordinatorLayout Behaviors]
+
 ### ConstraintLayout, MotionLayout
 
 - [ConstraintLayout.com](https://constraintlayout.com/)
