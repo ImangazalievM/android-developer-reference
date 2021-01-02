@@ -68,6 +68,7 @@
 
 **Articles:**
 
+- [5 tips for preparing for Multi-Window in Android N](https://medium.com/androiddevelopers/5-tips-for-preparing-for-multi-window-in-android-n-7bed803dda64)
 
 ### Android 8/8.1
 
@@ -92,8 +93,12 @@
 - [Exploring Android Q: Sharing Shortcuts](https://joebirch.co/android/exploring-android-q-sharing-shortcuts/)
 - [Exploring Android Q: Settings Panels](https://joebirch.co/android/exploring-android-q-settings-panels/)
 - [Exploring Android Q: Location Permissions](https://joebirch.co/android/exploring-android-q-location-permissions/)
+- [All You Need to Know About Scoped Storage in Android 10](https://medium.com/better-programming/all-you-need-to-know-about-scoped-storage-in-android-10-e621f40bc8b9)
+- [Handling Files in Code After Android 10 Released](https://android.jlelse.eu/handling-files-in-code-after-the-android-10-released-2bea0e16d35)
 
 ### Android 11
 
 **Articles:**
 - [The Quick Developers Guide to Migrate Their Apps to Android 11](https://proandroiddev.com/the-quick-developers-guide-to-migrate-their-apps-to-android-11-e4ca2b011176)
+- [Android 11 storage FAQ](https://medium.com/androiddevelopers/android-11-storage-faq-78cefea52b7c)
+- [Modern user storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
