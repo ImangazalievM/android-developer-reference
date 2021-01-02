@@ -1,4 +1,4 @@
-![Android Developer Reference](./banner.png)
+![Android Developer Reference](https://i.imgur.com/p1hettl.png)
 
 ## [Java](java.md)
 - [Java Core SDK](java.md#java-core-sdk)
