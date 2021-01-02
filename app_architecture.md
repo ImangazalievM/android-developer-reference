@@ -9,6 +9,7 @@
 
 ## GoF patterns
 
+- [SourceMaking.com](https://sourcemaking.com/design_patterns)
 - [Gang of Four Patterns in Kotlin](https://dev.to/lovis/gang-of-four-patterns-in-kotlin)
 - [Kotlin Fun With The Factory Pattern](https://medium.com/the-coding-matrix/kotlin-fun-with-the-factory-pattern-70aa5e431dba)
 - [Common Design Patterns for Android with Kotlin](https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin)
