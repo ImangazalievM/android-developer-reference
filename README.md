@@ -1,4 +1,4 @@
-![Android Developer Reference](https://i.imgur.com/p1hettl.png)
+![Android Developer Reference](https://i.imgur.com/soskaCh.png)
 
 ## [Java](java.md)
 - [Java Core SDK](java.md#java-core-sdk)
