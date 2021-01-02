@@ -39,14 +39,13 @@ ____
 - [Java Concurrency: Thread Life Cycle](https://medium.com/javarevisited/java-concurrency-thread-life-cycle-4869432474b)
 
 ### Java Memory Model
-
 - Shared Memory
 - Program order
 - Synchronization order
 - Happens-before
 - Final
 - Word tearing
-
+___
 - [Java Memory Model](http://tutorials.jenkov.com/java-concurrency/java-memory-model.html)
 - [Java Concurrency: Java Memory Model](https://medium.com/javarevisited/java-concurrency-java-memory-model-96e3ac36ec6b)
 - [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
