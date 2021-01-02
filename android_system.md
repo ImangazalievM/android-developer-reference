@@ -1,8 +1,9 @@
 # Android System
 
 - [**Android Internals**](#android-internals):
-  - [Zygote](#zygote)
+  - [Android OS Architecture](#zygote)
   - [Dalvik & ART](#dalvik--art)
+  - [App Internals](#app-internals)
   - [APK file](#apk-file)
 - [**Android Versions**](#android-versions)
   - [Android 5/5.1 (L - API level 21/22)](#android-551)
@@ -15,15 +16,27 @@
 
 ## Android Internals
 
-- [Who lives and who dies? Process priorities on Android](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.565lzw8kv)
-- [Android Internals #1: How Android Starts Your Main Activity](https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222)
+### Android OS Architecture
 
-### Zygote
+- [Understanding Android Architecture](https://medium.com/@deepamgoel/understanding-android-architecture-1f0fb4b52f90)
+- [Android Boot Up Process ( System Server)](https://medium.com/@khetanrajesh/android-boot-up-process-system-server-940f210d0194)
+- [Android Boot Process](https://android.jlelse.eu/android-boot-process-8f7d94ff9889)
+- [Who lives and who dies? Process priorities on Android](https://medium.com/androiddevelopers/who-lives-and-who-dies-process-priorities-on-android-cb151f39044f#.565lzw8kv)
+
+**Zygote**
+
+- [The Zygote Process](https://medium.com/masters-on-mobile/the-zygote-process-a5d4fc3503db)
+- [What the Zygote!?](https://medium.com/@voodoomio/what-the-zygote-76f852d887d9)
 
 ### Dalvik & ART
 
 - [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
 - [Android Internals: ART vs DVM deep dive](https://android.jlelse.eu/android-internals-art-vs-dvm-deep-dive-def34cf664d7)
+
+### App Internals
+
+- [AndroIdiots Podcast 16: Android Process LifeCycle](https://medium.com/androidiots/androidiots-podcast-16-android-process-lifecycle-5cdba10fa431)
+- [Android Internals #1: How Android Starts Your Main Activity](https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222)
 
 ### APK file
 
