@@ -8,6 +8,9 @@
 
 ___
 
+- [Kotlin Oficcial Website](https://kotlinlang.org)
+- [Kotlin Weekly](http://www.kotlinweekly.net)
+
 ## Basics
 
 - [Zero-cost* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
