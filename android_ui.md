@@ -128,6 +128,9 @@
 - [Workcation App – Part 2. Animating Markers with MapOverlayLayout](https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout)
 - [Workcation App – Part 3. RecyclerView interaction with Animated Markers](https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/)
 - [How We Developed Jelly ToolBar Animation for Android in Kotlin](https://yalantis.com/blog/toolbar-jelly-animation-kotlin-android/)
+- [Introduction to Physics-based animations in Android](https://proandroiddev.com/introduction-to-physics-based-animations-in-android-1be27e468835)
+- [Bringing smooth animation transitions to Android](https://medium.com/wirecube-software-engineering/bringing-smooth-animation-transitions-to-android-88786347e512)
+- [Randomized, endless animation using TimeAnimator](https://medium.com/@patrick.elmquist/continuous-animation-using-timeanimator-5b8a903603fb)
 
 ### Transitions
 - [Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb)
@@ -215,3 +218,8 @@
 ### State Restoration Policy
 
 - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+
+### Animations
+
+- [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
+- [Enter animation using RecyclerView and LayoutAnimation Part 2: Grids](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-2-grids-688829b1d29b)
