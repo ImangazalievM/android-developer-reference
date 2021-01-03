@@ -39,6 +39,7 @@
 ### Database
 
 - [Room](https://developer.android.com/training/data-storage/room)
+- [SQLDelight](https://github.com/cashapp/sqldelight)
 
 ### Preferences
 
@@ -85,6 +86,14 @@
 - [AdapterDelegate](https://github.com/sockeqwe/AdapterDelegates)
 - [recyclical](https://github.com/afollestad/recyclical)
 
-### Debug
+## Debug
 
 - [Stetho](https://github.com/facebook/stetho)
+
+## Testing
+
+**Unit-tests**
+- [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver)
+
+**UI tests:**
+- [Barista](https://github.com/AdevintaSpain/Barista)
