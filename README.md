@@ -142,9 +142,10 @@
   - Audio
   - Fonts
 
-## Misc
-- Data structures
-- Algorithms
+## [Misc](misc.md)
+- [Interview Questions](misc.md#interview-questions)
+- [Data structures](#)
+- [Algorithms]
 
 ## Android Blogs & Resources
 
