@@ -35,6 +35,10 @@ ___
 - [Android Fragments: Common Queries & Mistakes](https://medium.com/better-programming/android-fragments-common-queries-mistakes-1c42e9f6b44f)
 - [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 
+## Services
+
+- [Deep dive into Android Services](https://developerlife.com/2017/07/10/android-o-n-and-below-component-lifecycles-and-background-tasks/)
+
 ## Permissions
 
 - [Permissions on Android](https://developer.android.com/guide/topics/permissions/overview)
