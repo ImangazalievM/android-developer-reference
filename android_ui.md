@@ -21,6 +21,7 @@
   - [ItemAnimator](#itemanimator)
   - [DiffUtil](#diffutil)
   - [State Restoration Policy](#state-restoration-policy)
+  - [Animations](#animations-1)
   
  ___
   
@@ -187,7 +188,6 @@
 - [Add extra depth to your list using parallax](https://medium.com/@patrick.elmquist/add-extra-depth-to-your-list-using-parallax-eddb27b369de)
 - [Update recycler view content without refreshing the data](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
 - [Fast Scrolling with RecyclerView](https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688)
-- [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5)
 
 ### Adapter
 
@@ -223,3 +223,4 @@
 
 - [Enter animation using RecyclerView and LayoutAnimation Part 1: Lists](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-1-list-75a874a5d213)
 - [Enter animation using RecyclerView and LayoutAnimation Part 2: Grids](https://proandroiddev.com/enter-animation-using-recyclerview-and-layoutanimation-part-2-grids-688829b1d29b)
+- [Bounce effect in RecyclerView](https://medium.com/mindorks/bounce-effect-in-recyclerview-6463a7f81e5)
