@@ -70,7 +70,7 @@ ___
 - [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
 - [Java Memory Model fundamentals or How to build stormtrooper clones army in a correct way](https://itnext.io/java-memory-model-fundamentals-or-how-to-build-stormtrooper-clones-army-in-a-correct-way-f20403504294)
 - [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
-- [https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/](https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)
+- [Java 8 Concurrency Tutorial: Atomic Variables and ConcurrentMap](https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)
 
 ### Executors
 
