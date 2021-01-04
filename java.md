@@ -6,6 +6,7 @@
   - [Reflection API](#reflection-api)
 - [Concurrency](#concurrency)
   - [Java Memory Model](#java-memory-model)
+  - [Executors](#executors)
   - Thread Pools
   - ThreadLocal
   - Synchronization
@@ -14,10 +15,12 @@
   - [Garbage Collector](#garbage-collector)
 ____
 
-- [Java Tutorial by Oracle](https://docs.oracle.com/javase/tutorial/)
+- [Java Tutorial by Oracle](https://docs.oracle.com/javase/tutorial)
 - [Java Tutorial by TutorialPoints.com](https://www.tutorialspoint.com/java/index.htm)
 - [Java 8 Tutorial](https://www.tutorialspoint.com/java8/index.htm)
 - [Java 9 Tutorial](https://www.tutorialspoint.com/java9/index.htm)
+- [HowToDoInJava.com](https://howtodoinjava.com)
+- [The Well-Grounded Java Developer](https://livebook.manning.com/book/the-well-grounded-java-developer/table-of-contents/)
 
 ## Java Core SDK
 
@@ -45,6 +48,9 @@ ___
 - [**Java Concurrency and Multithreading Tutorial**](http://tutorials.jenkov.com/java-concurrency/index.html)
 - [Chapter 17. Threads and Locks](https://docs.oracle.com/javase/specs/jls/se8/html/jls-17.html)
 - [Java Concurrency Tutorial](https://www.tutorialspoint.com/java_concurrency/index.htm)
+- [Java Concurrency by Baeldung](https://www.baeldung.com/java-concurrency)
+- [Java concurrency by Vogella](https://www.vogella.com/tutorials/JavaConcurrency/article.html#atomic-operation)
+- [Java Concurrency Tutorials](https://www.javacodegeeks.com/java-concurrency-tutorials)
 ___
 - [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
 - [Thread Signaling](http://tutorials.jenkov.com/java-concurrency/thread-signaling.html)
@@ -64,6 +70,11 @@ ___
 - [Understanding Java Memory Model](https://medium.com/platform-engineer/understanding-java-memory-model-1d0863f6d973)
 - [Java Memory Model fundamentals or How to build stormtrooper clones army in a correct way](https://itnext.io/java-memory-model-fundamentals-or-how-to-build-stormtrooper-clones-army-in-a-correct-way-f20403504294)
 - [Java Volatile Keyword](http://tutorials.jenkov.com/java-concurrency/volatile.html)
+- [https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/](https://winterbe.com/posts/2015/05/22/java8-concurrency-tutorial-atomic-concurrent-map-examples/)
+
+### Executors
+
+- [Java 8 Concurrency Tutorial: Threads and Executors](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
 
 ### ThreadPool
 
@@ -78,6 +89,7 @@ ___
 
 - [Java Synchronized Blocks](http://tutorials.jenkov.com/java-concurrency/synchronized.html)
 - [Nested Monitor Lockout](http://tutorials.jenkov.com/java-concurrency/nested-monitor-lockout.html)
+- [Java 8 Concurrency Tutorial: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples)
 
 **DeadLock**
 - [Deadlock](http://tutorials.jenkov.com/java-concurrency/deadlock.html)
