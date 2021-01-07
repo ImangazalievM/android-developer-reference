@@ -18,6 +18,7 @@
 ## Clean Architecture
 
 - [CleanArchitectureManifest](https://github.com/ImangazalievM/CleanArchitectureManifest)
+- [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 
 ## MVP/MVC
 
