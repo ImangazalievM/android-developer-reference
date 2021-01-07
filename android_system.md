@@ -69,25 +69,44 @@
 **Articles:**
 
 - [5 tips for preparing for Multi-Window in Android N](https://medium.com/androiddevelopers/5-tips-for-preparing-for-multi-window-in-android-n-7bed803dda64)
+- [Sharing files through Intents: are you ready for Nougat?](https://quiro.dev/posts/sharing-file-intent-nougat/)
+- [Android 7.1 Static Shortcut](https://medium.com/@tonyowen/android-7-1-static-shortcut-6c42d81ba11b#.jxwhq8108)
+- [Quick Settings Tiles on Android 7.0](https://medium.com/androiddevelopers/quick-settings-tiles-e3c22daf93a8#.6oty9then)
 
 ### Android 8/8.1
 
 **What's new:**
 
 - Notification Channels
+- Autofill
 
 **Articles:**
+- [Android 8.1 Developer Preview](https://android-developers.googleblog.com/2017/10/android-81-developer-preview.html)
 - [Random Musings on the O Developer Preview 3](https://commonsware.com/blog/2017/06/08/random-musings-o-developer-preview-3.html)
 - [Hidden Gems of Android O](https://medium.com/@ianhlake/hidden-gems-of-android-o-7def63136629)
 - [Android O and the Implicit Broadcast Ban](https://commonsware.com/blog/2017/04/11/android-o-implicit-broadcast-ban.html)
 - [O-h yeah! What we look forward to in Android O](https://blog.novoda.com/o-h-yeah-what-we-look-forward-to-in-android-o/)
 - [Exploring Android O: Notification Channels](https://medium.com/exploring-android/exploring-android-o-notification-channels-94cd274f604c)
-- [Notification in Android 8.0(oreo): Implementing Notification Channels]
+- [Notification in Android 8.0(oreo): Implementing Notification Channels](https://medium.com/cr8resume/notification-in-android-8-0-oreo-implementing-notification-channels-d65b0f81ca50)
+- [Securing Apps From Android 8.0 Autofill](https://commonsware.com/blog/2017/06/13/securing-apps-android-8p0-autofill.html)
+- [ACTION_BOOT_COMPLETED, IntentService, and Android 8.0](https://commonsware.com/blog/2017/06/12/action_boot_completed-intentservice-android-8p0.html)
+- [Pitfalls of a foreground Service lifecycle](https://proandroiddev.com/pitfalls-of-a-foreground-service-lifecycle-59f014c6a125)
 
 ### Android 9
 
+**What's new:*
+- Slices
+- App Actions
+- Biometric prompt
+- Text Classifier and Smart Linkify
+- Neural Networks API
+
 **Articles:**
+- [Introducing Android 9 Pie](https://android-developers.googleblog.com/2018/08/introducing-android-9-pie.html)
+- [Random Musings on the P Developer Preview 1](https://commonsware.com/blog/2018/03/08/random-musings-p-developer-preview-1.html)
 - [Migrating from FingerprintManager to BiometricPrompt](https://medium.com/androiddevelopers/migrating-from-fingerprintmanager-to-biometricprompt-4bc5f570dccd)
+- [Exploring Android P: Fingerprint Dialog](https://medium.com/exploring-android/exploring-android-p-fingerprint-dialog-fa672ae62c6f)
+- [App Standby Buckets In Android](https://medium.com/mindorks/app-standby-buckets-in-android-ada2d2929350)
 
 ### Android 10
 
