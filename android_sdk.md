@@ -19,7 +19,7 @@
 
 ___
 
-- [Evolution of Finding Views by ID in Android](https://android.jlelse.eu/evolution-of-finding-views-android-98b8ef5b9249)
+- [8 Best Things for Android Development in 2020](https://vladsonkin.com/8-best-things-for-android-development-in-2020/)
 
 ## Activity & Intent
 
@@ -51,6 +51,7 @@ ___
 - [Android Notification Channel As Deep As Possible](https://itnext.io/android-notification-channel-as-deep-as-possible-1a5b08538c87)
 
 ## Resources
+- [Evolution of Finding Views by ID in Android](https://android.jlelse.eu/evolution-of-finding-views-android-98b8ef5b9249)
 - [The Ultimate Guide to Android App I18n and L10n](https://proandroiddev.com/the-ultimate-guide-to-android-app-internationalization-and-localization-89b6c33fe741)
 
 ## Widgets
