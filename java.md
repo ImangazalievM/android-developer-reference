@@ -54,8 +54,10 @@ ___
 ___
 - [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
 - [Thread Signaling](http://tutorials.jenkov.com/java-concurrency/thread-signaling.html)
-- [Java Concurrency: Thread Safety](https://medium.com/javarevisited/java-concurrency-thread-safety-1aac8ae66d2c)
+- [Java Concurrency: Thread Safety](https://medium.com/
+/java-concurrency-thread-safety-1aac8ae66d2c)
 - [Java Concurrency: Thread Life Cycle](https://medium.com/javarevisited/java-concurrency-thread-life-cycle-4869432474b)
+- [Java Concurrency: Thread Safety](https://medium.com/javarevisited/java-concurrency-thread-safety-1aac8ae66d2c)
 
 ### Java Memory Model
 - Shared Memory
@@ -74,6 +76,7 @@ ___
 
 ### Executors
 
+- [Java Concurrency: Executors](https://medium.com/javarevisited/java-concurrency-executors-fa2307ed7f80)
 - [Java 8 Concurrency Tutorial: Threads and Executors](https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
 
 ### ThreadPool
@@ -90,6 +93,7 @@ ___
 - [Java Synchronized Blocks](http://tutorials.jenkov.com/java-concurrency/synchronized.html)
 - [Nested Monitor Lockout](http://tutorials.jenkov.com/java-concurrency/nested-monitor-lockout.html)
 - [Java 8 Concurrency Tutorial: Synchronization and Locks](https://winterbe.com/posts/2015/04/30/java8-concurrency-tutorial-synchronized-locks-examples)
+- [Java Concurrency: Locks](https://medium.com/javarevisited/java-concurrency-locks-9d161e1d1847)
 
 **DeadLock**
 - [Deadlock](http://tutorials.jenkov.com/java-concurrency/deadlock.html)
