@@ -101,3 +101,9 @@ ___
 - [Java Concurrency: Deadlock](https://medium.com/javarevisited/java-concurrency-deadlock-f5b1078420f1)
 
 ## JVM
+
+- [Build, compile, run: A crash course in classpaths](https://dev.to/autonomousapps/build-compile-run-a-crash-course-in-classpaths-f4g)
+- [JVM 101: Introduction, ClassLoader Sub-System & JIT compiler (Part 1)](http://medium.com/javarevisited/jvm-101-introduction-classloader-sub-system-jit-compiler-part-1-9e5a6782fa3e)
+- [JVM 101: Garbage Collection and Heap (Part 2)](https://medium.com/javarevisited/jvm-101-garbage-collection-and-heap-part-2-dc36b710638d)
+- [Java Virtual Machine (JVM) Internals, Part 1 — Classloader](https://medium.com/javarevisited/java-virtual-machine-internals-class-loader-eea706eb37d9)
+- [Java Virtual Machine (JVM) Internals, Part 2 — Class file format](https://medium.com/javarevisited/java-virtual-machine-jvm-internals-part-2-class-file-format-7752e5f7dbbe)
