@@ -34,6 +34,7 @@ ___
 - [How to Add a Fragment the Kotlin way](https://medium.com/thoughts-overflow/how-to-add-a-fragment-in-kotlin-way-73203c5a450b)
 - [Android Fragments: Common Queries & Mistakes](https://medium.com/better-programming/android-fragments-common-queries-mistakes-1c42e9f6b44f)
 - [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
+- [The many flavors of commit()](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1)
 
 ## Services
 
