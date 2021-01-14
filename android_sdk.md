@@ -12,11 +12,13 @@
 - [Notifications, Channels](#notifications--channels)
 - [MediaSessions](#mediasessions)
 - [Widgets](#widgets)
-- [Resources](#resources)
-- [Database, Preferences](#database-preferences)
-- [File system](#file-system)
+- Data
+   - [Resources](#resources)
+   - [Database, Preferences](#database-preferences)
+   - [File system](#file-system)
+- [Hardware](#hardware)
+  - [Bluetooth](#bluetooth)
 - [Security](#security)
-
 ___
 
 - [8 Best Things for Android Development in 2020](https://vladsonkin.com/8-best-things-for-android-development-in-2020/)
@@ -40,6 +42,11 @@ ___
 
 - [Deep dive into Android Services](https://developerlife.com/2017/07/10/android-o-n-and-below-component-lifecycles-and-background-tasks/)
 
+### AIDL
+
+- [Android AIDL](https://android.jlelse.eu/android-aidl-937daf89e685)
+- [RxJava with AIDL Services](https://www.donnfelker.com/rxjava-with-aidl-services/)
+
 ## Permissions
 
 - [Permissions on Android](https://developer.android.com/guide/topics/permissions/overview)
@@ -57,15 +64,23 @@ ___
 
 ## Widgets
 
-## Database, Preferences
+## Data
+
+### Database, Preferences
 
 - [Squeezing Performance from SQLite: Insertions](https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2)
 
-## File system
+### File system
 - [Sharing Content between Android apps](https://medium.com/androiddevelopers/sharing-content-between-android-apps-2e6db9d1368b)
 - [Android Scoped Storage Demystified](https://medium.com/better-programming/android-scoped-storage-demystified-3024a062ba24)
 - [Handling Files in Code After Android 10 Released](https://android.jlelse.eu/handling-files-in-code-after-the-android-10-released-2bea0e16d35)
 - [Scoped Storage in Android 10 & Android 11](https://medium.com/microsoft-mobile-engineering/scoped-storage-in-android-10-android-11-28d58d989f3c)
+
+## Hardware
+
+### Bluetooth
+- [The Ultimate Guide to Android Bluetooth Low Energy](https://punchthrough.com/android-ble-guide)
+- [Bluetooth Low Energy on Android, Part 1](https://www.bignerdranch.com/blog/bluetooth-low-energy-on-android-part-1)
 
 ## Security
 - [App security best practices](https://developer.android.com/topic/security/best-practices)
