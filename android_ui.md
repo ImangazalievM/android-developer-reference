@@ -6,6 +6,7 @@
   - [Custom views](#custom-views)
   - [View Outline](#view-outline)
   - [Android Canvas](#android-canvas)
+  - [Clipping, PorterDuff](#clipping-porterduff)
 - [**Animations**](#animations):
   - [Android Transitions](android-transitions)
   - [ValueAnimator, ObjectAnimator](valueanimator-objectanimator)
@@ -107,6 +108,14 @@
 - [Expounding Android Canvas’ DrawText](https://medium.com/mobile-app-development-publication/expounding-android-canvas-drawtext-bae3d4fabc5a)
 - [Canvas : The Real Play Ground! Android](https://android.jlelse.eu/canvas-the-real-play-ground-android-c0faa4b79943)
 - [Drawing multiline text to Canvas on Android](https://medium.com/over-engineering/drawing-multiline-text-to-canvas-on-android-9b98f0bfa16a)
+
+### Clipping, PorterDuff
+
+- [Android UI: Creating a layout rounded only in the top](https://medium.com/@iamsadesh/android-ui-creating-a-layout-rounded-only-in-the-top-d60514ccab77)
+- [Clipping and shadows on Android](https://medium.com/@Zielony/clipping-and-shadows-on-android-e702a0d96bd4)
+- [PorterDuff.Mode](https://developer.android.com/reference/android/graphics/PorterDuff.Mode)
+- [Manipulating images and Drawables with Android’s ColorFilter](https://medium.com/over-engineering/manipulating-images-and-drawables-with-androids-colorfilter-25bf061843e7)
+- [The power of Android Porter/Duff Mode with View Animation](https://android.jlelse.eu/the-power-of-android-porter-duff-mode-28b99ade45ec)
 
 ### TextView
 
