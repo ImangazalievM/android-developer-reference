@@ -198,26 +198,34 @@
 ### ItemDecoration
 
 - [ItemDecoration in Android](https://proandroiddev.com/itemdecoration-in-android-e18a0692d848)
+- [Custom ItemDecoration](https://medium.com/@nicolas.duponchel/custom-itemdecoration-3b244de437d9)
 
 ### SnapHelper
 
 - [Detecting snap changes with Android’s RecyclerView SnapHelper](https://medium.com/over-engineering/detecting-snap-changes-with-androids-recyclerview-snaphelper-9e9f5e95c424)
 - [Inside RecyclerView’s SnapHelper](https://proandroiddev.com/android-recyclerview-snaphelper-19eaa9598da6)
+- [Improving scrolling behavior of nested RecyclerViews - Part 1](https://rubensousa.com/2019/08/16/nested_recyclerview_part1/)
 
 ### LayoutManager
 
 - [10 steps to create a custom LayoutManager](https://medium.com/android-development-by-danylo/10-steps-to-create-a-custom-layoutmanager-2f30ab2f979d)
 - [Reel Search and LayoutManager: An Android journey](https://blog.usejournal.com/reel-search-and-layoutmanager-an-android-journey-e2f925c8410f)
 - [RecyclerView animated transition between Grid and List layouts](https://medium.com/xorum-io/android-recyclerview-animated-transition-between-grid-and-list-layouts-b2309e1d9f19)
+- [Building a RecyclerView LayoutManager – Part 1](https://wiresareobsolete.com/2014/09/building-a-recyclerview-layoutmanager-part-1)
+- [Building a RecyclerView LayoutManager – Part 2](https://wiresareobsolete.com/2014/09/recyclerview-layoutmanager-2)
+- [Building a RecyclerView LayoutManager – Part 3](https://wiresareobsolete.com/2015/02/recyclerview-layoutmanager-3)
+- [Mastering RecyclerView Layouts](https://speakerdeck.com/devunwired/mastering-recyclerview-layouts)
 
 ### DiffUtil
 
 - [Asynchronous DiffUtil with Kotlin Coroutines](https://proandroiddev.com/better-recyclerview-with-asynchronous-diffutil-and-kotlin-coroutines-f67e4f366cda)
 - [RecyclerView — time to animate](https://blog.undabot.com/recyclerview-time-to-animate-with-payloads-and-diffutil-4278beb8d4dd)
+- [DiffUtil is a must!](https://proandroiddev.com/diffutil-is-a-must-797502bc1149#.o2rfpnj0g)
 
-### State Restoration Policy
+### State Restoration
 
 - [Restore RecyclerView scroll position](https://medium.com/androiddevelopers/restore-recyclerview-scroll-position-a8fbdc9a9334)
+- [Saving scroll state of nested RecyclerViews - Part 2](https://rubensousa.com/2019/08/27/saving_scroll_state_of_nested_recyclerviews/)
 
 ### Animations
 
