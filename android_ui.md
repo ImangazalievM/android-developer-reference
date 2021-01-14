@@ -136,7 +136,7 @@
 ### Transitions
 - [Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb)
 - [Hidden mistakes with Shared Element Transitions](https://medium.com/redmadrobot-mobile/hidden-mistakes-with-shared-element-transitions-65d79831c63)
-- [Workcation App – Part 1. Fragment custom transition]
+- [Workcation App – Part 1. Fragment custom transition](https://www.thedroidsonroids.com/blog/workcation-app-part-1-fragments-custom-transition)
 - [Workcation App – Part 4. Shared Element Transition with RecyclerView and Scenes](https://www.thedroidsonroids.com/blog/workcation-app-part-4-shared-element-transition-recyclerview-scenes)
 
 ## Gestures
