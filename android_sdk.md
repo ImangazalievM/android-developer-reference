@@ -46,6 +46,7 @@ ___
 
 - [Android AIDL](https://android.jlelse.eu/android-aidl-937daf89e685)
 - [RxJava with AIDL Services](https://www.donnfelker.com/rxjava-with-aidl-services/)
+- [The legend about AIDL. Part 1. The roots](https://unbreakable-titan.medium.com/the-legend-about-aidl-part-1-the-roots-c144be38d9a4)
 
 ## Permissions
 
