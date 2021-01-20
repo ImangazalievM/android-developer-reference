@@ -27,6 +27,9 @@
 
 - [Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
 
+**Kotlin DSL**
+- [Stop using Gradle buildSrc. Use composite builds instead](https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3)
+
 ### Annotation Processing
 
 - [Annotation processing 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
