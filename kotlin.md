@@ -68,6 +68,7 @@ ___
 - [Kotlin Coroutines, a deeper look](https://elizarov.medium.com/kotlin-coroutines-a-deeper-look-180536305c3f)
 - [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
 - [Android Coroutine Scopes: How To Handle A Coroutine](https://vladsonkin.com/android-coroutine-scopes-how-to-handle-a-coroutine/)
+- [Coroutine Recipes](https://github.com/edgar-zigis/CoroutineRecipes)
 
 ## Channels & Flows
 
