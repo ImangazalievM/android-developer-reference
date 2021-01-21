@@ -25,6 +25,7 @@
 
 ## Gradle
 
+- [Search Gradle plugins](https://plugins.gradle.org)
 - [Implementation vs API dependency](https://jeroenmols.com/blog/2017/06/14/androidstudio3/)
 
 **Kotlin DSL**
