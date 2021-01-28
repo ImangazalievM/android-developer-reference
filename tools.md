@@ -3,6 +3,7 @@
 - [Gradle](#gradle)
  - [Annotation Processing](#annotation-processing)
  - [Code protection](#code-protection)
+- [ProGuard](#proguard)
 - [Code Quality](#code-quality)
 - [App Bundle](#app-bundle)
 - [Dynamic Feature Modules](#dynamic-feature-modules)
@@ -40,6 +41,10 @@
 
 - [Android App Bundles](https://developer.android.com/guide/app-bundle)
 - [Exploring the Android App Bundle](https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7)
+
+## ProGuard
+
+[ProGuard Playground: A better way to write keep rules!](https://playground.proguard.com)
 
 ## Code Quality
 
