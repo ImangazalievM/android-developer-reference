@@ -1,6 +1,6 @@
 # Android UI
 - [**App styling:**](#app-styling)
-  - Window, Insets
+  - [Window, Insets](#window-insets)
 - [**Resources**](#resources)
 - **[Views](#views)**:
   - [Custom views](#custom-views)
@@ -73,6 +73,7 @@
 - [Animating your keyboard (part 2): reacting to WindowInset animations](https://medium.com/androiddevelopers/animating-your-keyboard-reacting-to-inset-animations-839be3d4c31b)
 - [Window Insets and Keyboard Animations Tutorial for Android 11](https://www.raywenderlich.com/18393648-window-insets-and-keyboard-animations-tutorial-for-android-11)
 - [Insetter](https://chrisbanes.github.io/insetter)
+- [curtains](https://github.com/square/curtains) - The missing Android Window APIs!
 
 ## Views
 
