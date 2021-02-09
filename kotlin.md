@@ -9,6 +9,7 @@
 ___
 
 - [Kotlin Oficcial Website](https://kotlinlang.org)
+- [Kotlin Academy](https://blog.kotlin-academy.com)
 - [Kotlin Weekly](http://www.kotlinweekly.net)
 
 ## Basics
