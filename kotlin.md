@@ -11,6 +11,7 @@ ___
 - [Kotlin Oficcial Website](https://kotlinlang.org)
 - [Kotlin Academy](https://blog.kotlin-academy.com)
 - [Kotlin Weekly](http://www.kotlinweekly.net)
+- [Dave Leeds on Kotlin](https://typealias.com)
 
 ## Basics
 
@@ -46,6 +47,13 @@ ___
 ## Collections
 
 - [Collections and sequences in Kotlin](https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca)
+- [Sequences](https://kotlinlang.org/docs/sequences.html)
+- [Effective Kotlin: Prefer Sequence for big collections with more than one processing step](https://blog.kotlin-academy.com/effective-kotlin-use-sequence-for-bigger-collections-with-more-than-one-processing-step-649a15bb4bf)
+- [When to Use Sequences](https://typealias.com/guides/when-to-use-sequences)
+- [Collections and sequences in Kotlin](https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca)
+- [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
+- [Kotlin : Slow List and Lazy Sequence](https://medium.com/mobile-app-development-publication/kotlin-slow-list-and-lazy-sequence-61691fc974c5)
+- [Sequences vs Iterable in Kotlin](https://proandroiddev.com/sequences-x-iterable-in-kotlin-b5df65cad2d2)
 
 ## Coroutines
 
