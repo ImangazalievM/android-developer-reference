@@ -2,6 +2,7 @@
 - [Dagger&Hilt](#daggerhilt)
 - [RxJava](#rxjava)
 - [Retrofit&OkHttp](#retrofitokhttp)
+- (Image loading)(#image-loading)
 ___
 
 - [GSON course by Future Studio](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
