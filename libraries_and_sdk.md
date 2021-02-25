@@ -24,3 +24,7 @@ ___
 ## Retrofit&OkHttp
 
 - [Retrofit course by Future Studio](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
+
+## Image loading
+
+- [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd)
