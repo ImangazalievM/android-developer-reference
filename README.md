@@ -101,6 +101,7 @@
 - [Dagger&Hilt](libraries_and_sdk.md#daggerhilt)
 - [RxJava](libraries_and_sdk.md#rxjava)
 - [Retrofit&OkHttp](libraries_and_sdk.md#retrofitokhttp)
+- [Image loading](libraries_and_sdk.md#image-loading)
 
 ## [Testing & Debug](testing_debug.md)
 - [Unit-testing](testing_debug.md#unit-testing)
