@@ -79,6 +79,7 @@
 
 - [Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
 - [The little secret of android:animateLayoutChanges](https://proandroiddev.com/the-little-secret-of-android-animatelayoutchanges-e4caab2fddec)
+- [Drag and drop in Android. All you need to know](https://proandroiddev.com/drag-and-drop-in-android-all-you-need-to-know-6df8babfb507)
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
@@ -161,7 +162,7 @@
 
 ### CoordinatorLayout, AppBarLayout
 
-- [Intercepting everything with CoordinatorLayout Behaviors]
+- [Intercepting everything with CoordinatorLayout Behaviors](https://medium.com/androiddevelopers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26)
 
 ### ConstraintLayout, MotionLayout
 
