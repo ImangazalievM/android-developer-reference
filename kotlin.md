@@ -41,6 +41,10 @@ ___
 - [Mastering Kotlin standard functions: run, with, let, also and apply](https://medium.com/mobile-app-development-publication/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84)
 - [Kotlin scope and extension functions. How to not harm your code](https://proandroiddev.com/kotlin-scope-and-extension-functions-b35925ec96b7)
 - [Kotlin Standard Functions cheat-sheet](https://medium.com/androiddevelopers/kotlin-standard-functions-cheat-sheet-27f032dd4326)
+
+## Delegates
+
+- [Kotlin Delegation by Inception](https://proandroiddev.com/kotlin-delegation-by-inception-61f8beaae0db)
 - [Delegating Delegates to Kotlin](https://medium.com/androiddevelopers/delegating-delegates-to-kotlin-ee0a0b21c52b)
 - [Built-in Delegates](https://medium.com/androiddevelopers/built-in-delegates-4811947e781f)
 
