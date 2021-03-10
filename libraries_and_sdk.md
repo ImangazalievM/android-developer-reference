@@ -3,6 +3,7 @@
 - [RxJava](#rxjava)
 - [Retrofit&OkHttp](#retrofitokhttp)
 - [Image loading](#image-loading)
+- [Google ML Kit](#googlemlkit)
 ___
 
 - [GSON course by Future Studio](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
@@ -29,3 +30,7 @@ ___
 ## Image loading
 
 - [Measure and optimize bitmap size using Glide or Picasso](https://proandroiddev.com/measure-and-optimize-bitmap-size-using-glide-or-picasso-3273b4a569cd)
+
+## Google ML Kit
+
+- [Google ML Kit](https://developers.google.com/ml-kit)
