@@ -126,6 +126,7 @@
 - [Underspanding spans](https://medium.com/androiddevelopers/underspanding-spans-1b91008b97e4)
 - [Working with spans in Android](https://programmerr47.medium.com/working-with-spans-in-android-ca4ab1327bc4)
 - [Creating custom Text Selection actions with ACTION_PROCESS_TEXT](https://medium.com/androiddevelopers/custom-text-selection-actions-with-action-process-text-191f792d2999#.v9tqu854k)
+- [Async Text Loading in Android with PrecomputedText](https://proandroiddev.com/async-text-loading-in-android-with-precomputedtext-93aa131b0e5b)
 
 ### ViewPager
 
