@@ -60,24 +60,27 @@ ___
 - [The suspend modifier — under the hood](https://medium.com/androiddevelopers/the-suspend-modifier-under-the-hood-b7ce46af624f)
 - [Coroutines: first things first](https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21)
 - [Coroutines & Patterns for work that shouldn’t be cancelled](https://medium.com/androiddevelopers/coroutines-patterns-for-work-that-shouldnt-be-cancelled-e26c40f142ad)
-- [Exceptions in coroutines](https://medium.com/androiddevelopers/exceptions-in-coroutines-ce8da1ec060c)
-- [Cancellation in coroutines](https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629)
+
 - [Threading models in Coroutines and Android SQLite API](https://medium.com/androiddevelopers/threading-models-in-coroutines-and-android-sqlite-api-6cab11f7eb90)
 - [Coroutines on Android (part I)](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 - [Coroutines on Android (part II)](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
 - [Coroutines on Android (part III)](https://medium.com/androiddevelopers/coroutines-on-android-part-iii-real-work-2ba8a2ec2f45)
-- [Easy Coroutines in Android: viewModelScope](https://medium.com/androiddevelopers/easy-coroutines-in-android-viewmodelscope-25bffb605471)
 - [Deep recursion with coroutines](https://elizarov.medium.com/deep-recursion-with-coroutines-7c53e15993e3)
-- [Coroutine Context and Scope](https://elizarov.medium.com/coroutine-context-and-scope-c8b255d59055)
-- [The reason to avoid GlobalScope](https://elizarov.medium.com/the-reason-to-avoid-globalscope-835337445abc)
 - [Blocking threads, suspending coroutines](https://elizarov.medium.com/blocking-threads-suspending-coroutines-d33e11bf4761)
 - [Futures, cancellation and coroutines](https://elizarov.medium.com/futures-cancellation-and-coroutines-b5ce9c3ede3a)
 - [Structured concurrency](https://elizarov.medium.com/structured-concurrency-722d765aa952)
 - [Such concurrency! Many threads! Wow!](https://elizarov.medium.com/such-concurrency-many-threads-wow-7c81ba9e9ebe)
 - [Kotlin Coroutines, a deeper look](https://elizarov.medium.com/kotlin-coroutines-a-deeper-look-180536305c3f)
 - [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
-- [Android Coroutine Scopes: How To Handle A Coroutine](https://vladsonkin.com/android-coroutine-scopes-how-to-handle-a-coroutine/)
 - [Coroutine Recipes](https://github.com/edgar-zigis/CoroutineRecipes)
+
+**Scopes:**
+- [Coroutine Context and Scope](https://elizarov.medium.com/coroutine-context-and-scope-c8b255d59055)
+- [The reason to avoid GlobalScope](https://elizarov.medium.com/the-reason-to-avoid-globalscope-835337445abc)
+- [Easy Coroutines in Android: viewModelScope](https://medium.com/androiddevelopers/easy-coroutines-in-android-viewmodelscope-25bffb605471)
+
+**Dispatchers:**
+- [Dispatchers in Kotlin Coroutines](https://androidwave.com/dispatchers-in-kotlin-coroutines)
 
 ## Channels & Flows
 
