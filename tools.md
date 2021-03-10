@@ -44,11 +44,13 @@
 
 ## ProGuard
 
-[ProGuard Playground: A better way to write keep rules!](https://playground.proguard.com)
+- [ProGuard Playground: A better way to write keep rules!](https://playground.proguard.com)
 
 ## Code Quality
 
 - [Android Lint Framework — An Introduction](https://proandroiddev.com/android-lint-framework-an-introduction-36139deedf8b)
+- [KTLint](https://ktlint.github.io)
+- [Make Your Code Clean with Ktlint](https://medium.com/@takusemba/make-your-code-clean-with-ktlint-bf651c5924e8)
 
 ## Dynamic Feature Modules
 
