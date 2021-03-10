@@ -37,6 +37,7 @@ ___
 - [Android Fragments: Common Queries & Mistakes](https://medium.com/better-programming/android-fragments-common-queries-mistakes-1c42e9f6b44f)
 - [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 - [The many flavors of commit()](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1)
+- [7 Common Mistakes Easily Made with Android Fragment](https://medium.com/mobile-app-development-publication/7-common-mistakes-easily-made-with-android-fragment-6fc85c44e783)
 
 ## Services
 
