@@ -12,16 +12,16 @@
 
 ## UI-testing
 
-- [Kakao](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
-- [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework
-- [Barista](https://github.com/AdevintaSpain/Barista) - The one who serves a great Espresso
+- 💾 [Kakao](https://github.com/agoda-com/Kakao) - Nice and simple DSL for Espresso in Kotlin
+- 💾 [Kaspresso](https://github.com/KasperskyLab/Kaspresso) - Great UI test framework
+- 💾 [Barista](https://github.com/AdevintaSpain/Barista) - The one who serves a great Espresso
 - [Handling Android runtime permissions in UI tests](https://medium.com/exploring-android/handling-android-runtime-permissions-in-ui-tests-981f9dc11a4e#.6rh2b1ipe)
 
 ## Debug tools
 
-- [Stetho](https://github.com/facebookarchive/stetho) - A debug bridge for Android applications
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [leakcanary](https://github.com/square/leakcanary)
+- 💾 [Stetho](https://github.com/facebookarchive/stetho) - A debug bridge for Android applications
+- 💾 [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- 💾 [leakcanary](https://github.com/square/leakcanary)
 
 ## Profiling & Optimization
 
