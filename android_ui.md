@@ -201,7 +201,8 @@
 - [Add extra depth to your list using parallax](https://medium.com/@patrick.elmquist/add-extra-depth-to-your-list-using-parallax-eddb27b369de)
 - [Update recycler view content without refreshing the data](https://medium.com/@MiguelSesma/update-recycler-view-content-without-refreshing-the-data-bb79d768bde8)
 - [Fast Scrolling with RecyclerView](https://android.jlelse.eu/fast-scrolling-with-recyclerview-2b89d4574688)
-
+- [RecyclerView Anti-Patterns](https://proandroiddev.com/recyclerview-antipatterns-8af3feeeccc7)
+ 
 ### Adapter
 
 - [Concatenate adapters sequentially with ConcatAdapter](https://medium.com/androiddevelopers/merge-adapters-sequentially-with-mergeadapter-294d2942127a)
