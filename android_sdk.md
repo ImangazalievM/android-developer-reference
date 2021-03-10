@@ -85,3 +85,4 @@ ___
 
 ## Security
 - [App security best practices](https://developer.android.com/topic/security/best-practices)
+- [Introduction to Android Security](https://medium.com/mobis3c/introduction-to-android-security-64609edeb18c)
