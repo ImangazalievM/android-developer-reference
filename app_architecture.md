@@ -7,6 +7,8 @@
 - [MVVM](#mvvm)
 - [MVI/Elm](#mvielm)
 
+- [Modularization of Android Applications in 2021](https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b)
+
 ## GoF patterns
 
 - [Design Patterns by SourceMaking.com](https://sourcemaking.com/design_patterns)
