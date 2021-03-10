@@ -37,7 +37,7 @@
 
 - 💾 [android/ndk](https://github.com/android/ndk)
 - 💾 [ndk-samples](https://github.com/android/ndk-samples) - Android NDK samples
-- 💾 [ReLinker](https://github.com/KeepSafe/ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android
+- 💾 [ReLinker](https://github.com/KeepSafe/ReLinker) - A robust native library loader for Android
 - 💾 [ffmpeg-android](https://github.com/WritingMinds/ffmpeg-android) - FFmpeg for Android
 
 ## Misc
