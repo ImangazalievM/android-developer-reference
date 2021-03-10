@@ -32,7 +32,8 @@
 
 - [Virtual Machine in Android: Everything you need to know](https://android.jlelse.eu/virtual-machine-in-android-everything-you-need-to-know-9ec695f7313b)
 - [Android Internals: ART vs DVM deep dive](https://android.jlelse.eu/android-internals-art-vs-dvm-deep-dive-def34cf664d7)
-
+- [A Garbage Collection Story](https://proandroiddev.com/a-garbage-collection-story-2421b96e4c84)
+ 
 ### App Internals
 
 - [AndroIdiots Podcast 16: Android Process LifeCycle](https://medium.com/androidiots/androidiots-podcast-16-android-process-lifecycle-5cdba10fa431)
