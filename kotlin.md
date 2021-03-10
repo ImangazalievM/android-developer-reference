@@ -101,3 +101,4 @@ ___
 - [Simple design of Kotlin Flow](https://elizarov.medium.com/simple-design-of-kotlin-flow-4725e7398c4c)
 - [Cold flows, hot channels](https://elizarov.medium.com/cold-flows-hot-channels-d74769805f9)
 - [Callbacks and Kotlin Flows](https://elizarov.medium.com/callbacks-and-kotlin-flows-2b53aa2525cf)
+- [Android SingleLiveEvent Redux with Kotlin Flow](https://proandroiddev.com/android-singleliveevent-redux-with-kotlin-flow-b755c70bb055)
