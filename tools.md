@@ -56,3 +56,7 @@
 
 - [Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123)
 - [Exploring Dynamic Feature navigation on Android](https://joebirch.co/android/exploring-dynamic-feature-navigation-on-android/)
+
+## Libraries development
+
+- [Considerations when creating Android libraries](https://medium.com/google-developer-experts/considerations-when-creating-android-libraries-c80940d79ae)
