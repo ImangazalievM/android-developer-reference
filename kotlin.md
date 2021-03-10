@@ -57,10 +57,11 @@ ___
 
 ## Coroutines
 
+- 💾 [Kotlin Coroutines - Use Cases on Android](https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android)
+
 - [The suspend modifier — under the hood](https://medium.com/androiddevelopers/the-suspend-modifier-under-the-hood-b7ce46af624f)
 - [Coroutines: first things first](https://medium.com/androiddevelopers/coroutines-first-things-first-e6187bf3bb21)
 - [Coroutines & Patterns for work that shouldn’t be cancelled](https://medium.com/androiddevelopers/coroutines-patterns-for-work-that-shouldnt-be-cancelled-e26c40f142ad)
-
 - [Threading models in Coroutines and Android SQLite API](https://medium.com/androiddevelopers/threading-models-in-coroutines-and-android-sqlite-api-6cab11f7eb90)
 - [Coroutines on Android (part I)](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb)
 - [Coroutines on Android (part II)](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd)
