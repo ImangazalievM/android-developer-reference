@@ -32,3 +32,4 @@
 - [Android’s multidex slows down app startup](https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.jqwaiogk5)
 - [A quick story about async callbacks, memory leaks, WeakReferences, and misconceptions](https://proandroiddev.com/a-quick-story-about-async-callbacks-memory-leaks-weakreferences-and-misconceptions-78003b3d6b26)
 - [Testing App Startup Performance](https://medium.com/androiddevelopers/testing-app-startup-performance-36169c27ee55)
+- [How we sped up Dropbox Android app startup by 30%](https://dropbox.tech/mobile/how-we-sped-up-dropbox-android-app-startup-by-30-)
