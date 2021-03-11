@@ -32,7 +32,8 @@
 **Kotlin DSL**
 - [Stop using Gradle buildSrc. Use composite builds instead](https://proandroiddev.com/stop-using-gradle-buildsrc-use-composite-builds-instead-3c38ac7a2ab3)
 - [Sharing build logic with Kotlin DSL](https://proandroiddev.com/sharing-build-logic-with-kotlin-dsl-203274f73013)
-
+- [Multi-flavoured Kotlin DSL build script for Android App](https://proandroiddev.com/multi-flavoured-kotlin-dsl-build-script-for-android-app-2d51577e76fb)
+- 
 ### Annotation Processing
 
 - [Annotation processing 101](http://hannesdorfmann.com/annotation-processing/annotationprocessing101)
