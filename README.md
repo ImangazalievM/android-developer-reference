@@ -146,9 +146,10 @@
   - Fonts
 
 ## [Misc](misc.md)
+- [Roadmaps](misc.md#roadmaps)
 - [Interview Questions](misc.md#interview-questions)
-- [Data structures](#)
-- [Algorithms]
+- [Data structures](misc.md#datastructures)
+- [Algorithms](misc.md#algorithms)
 
 ## Android Blogs & Resources
 
