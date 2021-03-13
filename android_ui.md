@@ -80,6 +80,7 @@
 - [Why would I want to fitsSystemWindows?](https://medium.com/androiddevelopers/why-would-i-want-to-fitssystemwindows-4e26d9ce1eec#.tjiswxqwo)
 - [The little secret of android:animateLayoutChanges](https://proandroiddev.com/the-little-secret-of-android-animatelayoutchanges-e4caab2fddec)
 - [Drag and drop in Android. All you need to know](https://proandroiddev.com/drag-and-drop-in-android-all-you-need-to-know-6df8babfb507)
+- [Minute of Pain #5: ChipGroup functionality](https://proandroiddev.com/minute-of-pain-5-chipgroup-functionality-3d227d512a27)
 
 ### Custom views
 - [Ultimate Guide To Android Custom View](https://vladsonkin.com/ultimate-guide-to-android-custom-view/)
