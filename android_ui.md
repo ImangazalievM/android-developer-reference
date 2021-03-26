@@ -190,7 +190,8 @@
 - [Defining motion paths in MotionLayout](https://medium.com/google-developers/defining-motion-paths-in-motionlayout-6095b874d37)
 - [Complex UI/Animations on Android — featuring MotionLayout](https://proandroiddev.com/complex-ui-animations-on-android-featuring-motionlayout-aa82d83b8660)
 - [Circular carousel with MotionLayout](https://medium.com/@rodrigomartind/circular-carousel-with-motionlayout-658d9c44c925)
-
+- [A MotionLayout Tutorial: Create Motions and Animations for Android](https://gorillalogic.com/blog/a-motionlayout-tutorial-create-motions-and-animations-for-android/)
+ 
 ## RecyclerView
 
 - [Anatomy of RecyclerView. Part 1](https://android.jlelse.eu/anatomy-of-recyclerview-part-1-a-search-for-a-viewholder-404ba3453714)
