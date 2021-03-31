@@ -147,6 +147,7 @@
 - [Introduction to Physics-based animations in Android](https://proandroiddev.com/introduction-to-physics-based-animations-in-android-1be27e468835)
 - [Bringing smooth animation transitions to Android](https://medium.com/wirecube-software-engineering/bringing-smooth-animation-transitions-to-android-88786347e512)
 - [Randomized, endless animation using TimeAnimator](https://medium.com/@patrick.elmquist/continuous-animation-using-timeanimator-5b8a903603fb)
+- [Change Theme Dynamically with Circular Reveal Animation on Android](https://proandroiddev.com/change-theme-dynamically-with-circular-reveal-animation-on-android-8cd574f5f0d8)
 
 ### Transitions
 - [Fragment transitions with shared elements](https://medium.com/@bherbst/fragment-transitions-with-shared-elements-7c7d71d31cbb)
