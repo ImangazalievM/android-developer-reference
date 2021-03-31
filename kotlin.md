@@ -79,6 +79,7 @@ ___
 - [Suspending over views](https://medium.com/androiddevelopers/suspending-over-views-19de9ebd7020)
 - [Coroutine Recipes](https://github.com/edgar-zigis/CoroutineRecipes)
 - [Bridging the gap between coroutines, threads, and concurrency problems](https://medium.com/androiddevelopers/bridging-the-gap-between-coroutines-jvm-threads-and-concurrency-problems-864e563bd7c)
+- [Are you handling exceptions in Kotlin coroutines properly?](https://www.netguru.com/codestories/exceptions-in-kotlin-coroutines)
  
 **Scopes:**
 - [Coroutine Context and Scope](https://elizarov.medium.com/coroutine-context-and-scope-c8b255d59055)
