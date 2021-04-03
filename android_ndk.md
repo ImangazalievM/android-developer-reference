@@ -45,3 +45,4 @@
 
 ### Audio
 - [My Experience with FFmpeg on Android](https://medium.com/hackernoon/android-ndk-my-experience-with-ffmpeg-93dd7e4b9269)
+- [Multimedia Operations for Android using FFmpeg](https://medium.com/simform-engineering/multimedia-operations-for-android-using-ffmpeg-78f1fb480a83)
