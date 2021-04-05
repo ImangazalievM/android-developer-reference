@@ -13,6 +13,7 @@
   - [Android 9 (P - 28)](#android-9)
   - [Android 10 (Q - 29)](#android-10)
   - [Android 11 (R - 30)](#android-11)
+  - [Android 12](#android-12)
 
 ## Android Internals
 
@@ -130,3 +131,7 @@
 - [The Quick Developers Guide to Migrate Their Apps to Android 11](https://proandroiddev.com/the-quick-developers-guide-to-migrate-their-apps-to-android-11-e4ca2b011176)
 - [Android 11 storage FAQ](https://medium.com/androiddevelopers/android-11-storage-faq-78cefea52b7c)
 - [Modern user storage on Android](https://medium.com/androiddevelopers/modern-user-storage-on-android-e9469e8624f9)
+
+### Android 12
+
+- [First preview of Android 12](https://android-developers.googleblog.com/2021/02/android-12-dp1.html)
