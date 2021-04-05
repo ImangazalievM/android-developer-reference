@@ -13,7 +13,7 @@
   - [Android 9 (P - 28)](#android-9)
   - [Android 10 (Q - 29)](#android-10)
   - [Android 11 (R - 30)](#android-11)
-  - [Android 12](#android-12)
+  - [Android 12 (S - 31)](#android-12)
 
 ## Android Internals
 
