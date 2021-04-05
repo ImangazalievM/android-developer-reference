@@ -31,6 +31,7 @@
   - [Android 9](android_system.md#android-9)
   - [Android 10](android_system.md#android-10)
   - [Android 11](android_system.md#android-11)
+  - [Android 12](android_system.md##android-12)
 
 ## [Android SDK](android_sdk.md)
 - [Activity & Intent](android_sdk.md#activity--intent)
