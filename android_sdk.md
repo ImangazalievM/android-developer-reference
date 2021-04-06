@@ -16,6 +16,7 @@
    - [Resources](#resources)
    - [Database, Preferences](#database-preferences)
    - [File system](#file-system)
+   - [Network](#network)
 - [Hardware](#hardware)
   - [Bluetooth](#bluetooth)
 - [Security](#security)
@@ -77,6 +78,10 @@ ___
 - [Android Scoped Storage Demystified](https://medium.com/better-programming/android-scoped-storage-demystified-3024a062ba24)
 - [Handling Files in Code After Android 10 Released](https://android.jlelse.eu/handling-files-in-code-after-the-android-10-released-2bea0e16d35)
 - [Scoped Storage in Android 10 & Android 11](https://medium.com/microsoft-mobile-engineering/scoped-storage-in-android-10-android-11-28d58d989f3c)
+
+### Network
+
+- [Practical network for Android Developers (part 1)](https://proandroiddev.com/practical-network-for-android-developers-part-1-e74944f57a85)
 
 ## Hardware
 
