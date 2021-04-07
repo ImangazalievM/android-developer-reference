@@ -47,14 +47,14 @@
 
 ## Android Versions
 
-**What's new:**
-- ART
-- Vector images support
 
-**Articles:**
 - [SDK Platform release notes](https://developer.android.com/studio/releases/platforms)
 
 ### Android 5/5.1
+
+**What's new:**
+- ART
+- Vector images support
 
 ### Android 6
 
