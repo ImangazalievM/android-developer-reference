@@ -101,7 +101,7 @@
 
 ### Android 9
 
-**What's new:*
+**What's new:**
 - Slices
 - App Actions
 - Biometric prompt
