@@ -49,6 +49,7 @@
 ## Resources
 
 - [Auto fetching string resource](https://proandroiddev.com/auto-fetching-string-resources-31788ceecf04)
+- [Dp to Px and viceversa for Kotlin](https://medium.com/@johanneslagos/dp-to-px-and-viceversa-for-kotlin-d797815d852b)
 
 ### Layouts
 - [Some common mistakes when doing layout in Android](https://medium.com/swlh/some-common-mistakes-in-doing-layout-in-android-a8ee035f199c)
