@@ -98,6 +98,8 @@
 - [Android Custom View Level 1 Basic Terms and Creation of Custom View](https://proandroiddev.com/android-custom-view-level-1-67ed1c3febe1)
 - [Android Custom Views Level 2 AttributeSet](https://proandroiddev.com/android-custom-views-level-2-7a0f110a2ce9)
 - [Android Custom View Level 3 View Life-Cycle](https://proandroiddev.com/android-custom-view-level-3-81e767c8cc75)
+- [https://medium.com/mobile-app-development-publication/android-view-scrolling-made-simple-2bae4209eca1](https://medium.com/mobile-app-development-publication/android-view-scrolling-made-simple-2bae4209eca1)
+- [Android Physics-based Animation](https://medium.com/arabamlabs/android-physics-based-animation-36a1dfa6eb95)
 
 ### Android Canvas
 - [Getting Started with Android Canvas Drawing](https://medium.com/over-engineering/getting-started-with-drawing-on-the-android-canvas-621cf512f4c7)
