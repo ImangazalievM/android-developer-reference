@@ -52,6 +52,8 @@
 
 ## Android System
 
+- [fingerprint-android](https://github.com/fingerprintjs/fingerprint-android)
+
 ### Permissions
 
 - [assent](https://github.com/afollestad/assent)
@@ -60,7 +62,7 @@
 
 ## Android UI
 
-- [MPAndroidChart]
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 
 ### Images
 
