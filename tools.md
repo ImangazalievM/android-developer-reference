@@ -1,5 +1,6 @@
 # Tools
 - [Android Studio](#android-studio)
+ - [Abdroid Gradle Plugin Releases](https://developer.android.com/studio/releases/gradle-plugin)
 - [Gradle](#gradle)
  - [Annotation Processing](#annotation-processing)
  - [Code protection](#code-protection)
