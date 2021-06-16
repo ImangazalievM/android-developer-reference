@@ -39,6 +39,7 @@ ___
 - [Android Fragments: FragmentFactory](https://proandroiddev.com/android-fragments-fragmentfactory-ceec3cf7c959)
 - [The many flavors of commit()](https://medium.com/@bherbst/the-many-flavors-of-commit-186608a015b1)
 - [7 Common Mistakes Easily Made with Android Fragment](https://medium.com/mobile-app-development-publication/7-common-mistakes-easily-made-with-android-fragment-6fc85c44e783)
+- [Multiple back stacks](https://medium.com/androiddevelopers/multiple-back-stacks-b714d974f134)
 
 ## Services
 
