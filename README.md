@@ -119,6 +119,7 @@
 - [Code Quality](tools.md#code-quality)
 - [App Bundle](tools.md#app-bundle)
 - [Dynamic Feature Modules](tools.md#dynamic-feature-modules)
+- [Libraries development](tools.md#libraries-development)
 
 
 ## [Mobile DevOps](devops.md)
