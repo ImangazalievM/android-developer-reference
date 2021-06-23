@@ -8,6 +8,7 @@
 - [Code Quality](#code-quality)
 - [App Bundle](#app-bundle)
 - [Dynamic Feature Modules](#dynamic-feature-modules)
+- [Libraries development](#libraries-development)
 
 - [Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
 
@@ -62,3 +63,4 @@
 ## Libraries development
 
 - [Considerations when creating Android libraries](https://medium.com/google-developer-experts/considerations-when-creating-android-libraries-c80940d79ae)
+- [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/)
