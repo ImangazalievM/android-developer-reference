@@ -58,6 +58,7 @@ ___
 - [Kotlin Sequence Tutorial](https://winterbe.com/posts/2018/07/23/kotlin-sequence-tutorial/)
 - [Kotlin : Slow List and Lazy Sequence](https://medium.com/mobile-app-development-publication/kotlin-slow-list-and-lazy-sequence-61691fc974c5)
 - [Sequences vs Iterable in Kotlin](https://proandroiddev.com/sequences-x-iterable-in-kotlin-b5df65cad2d2)
+- [Advanced Kotlin Collection Functionality](https://dev.to/kotlin/advanced-kotlin-collection-functionality-5e90)
 
 ## Coroutines
 
