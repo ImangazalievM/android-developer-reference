@@ -140,3 +140,4 @@
 ### Android 12
 
 - [First preview of Android 12](https://android-developers.googleblog.com/2021/02/android-12-dp1.html)
+- [Updating your widget for Android 12](https://medium.com/androiddevelopers/updating-your-widget-for-android-12-92e7de87424c)
