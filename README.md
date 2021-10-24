@@ -120,7 +120,7 @@
 - [App Bundle](tools.md#app-bundle)
 - [Dynamic Feature Modules](tools.md#dynamic-feature-modules)
 - [Libraries development](tools.md#libraries-development)
-
+- [Reverse engineering](tools.md#reverse-engineering)
 
 ## [Mobile DevOps](devops.md)
 - [CI&CD](devops.md#cicd)
