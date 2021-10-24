@@ -9,6 +9,7 @@
 - [App Bundle](#app-bundle)
 - [Dynamic Feature Modules](#dynamic-feature-modules)
 - [Libraries development](#libraries-development)
+- [Reverse engineering](#reverse-engineering)
 
 - [Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
 
@@ -64,3 +65,22 @@
 
 - [Considerations when creating Android libraries](https://medium.com/google-developer-experts/considerations-when-creating-android-libraries-c80940d79ae)
 - [Publishing to Maven Central](https://chris.banes.dev/publishing-to-maven-central/)
+
+## Reverse engineering
+
+**Tools**
+- [ApkTool](https://ibotpeaches.github.io/Apktool/)
+- [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) - A CLI tool that helps signing APK
+- [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+- [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+
+**Frida**
+- [💉 Frida's Gadget Injection on Android: No Root, 2 Methods](https://fadeevab.com/frida-gadget-injection-on-android-no-root-2-methods)
+- [How to Bypass Certificate Pinning with Frida on an Android App](https://blog.approov.io/how-to-bypass-certificate-pinning-with-frida-on-an-android-app)
+
+**Smali**
+- [Smali Introduction Manual](https://programmer.help/blogs/smali-introduction-manual.html)
+- [SO: What's the best way to learn Smali?](https://stackoverflow.com/questions/5656804/whats-the-best-way-to-learn-smali-and-how-when-to-use-dalvik-vm-opcodes)
+- [Smali: Assembler for Android’s VM](https://mobsecguys.medium.com/smali-assembler-for-dalvik-e37c8eed22f9)
+- [Introduction of (Smali Language) Android](https://playersquared.com/forums/25-mobile-development/2470-introduction-smali-language-android.html)
+- [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
