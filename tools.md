@@ -75,7 +75,7 @@
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
 **Frida**
-- [💉 Frida's Gadget Injection on Android: No Root, 2 Methods](https://fadeevab.com/frida-gadget-injection-on-android-no-root-2-methods)
+- [Frida's Gadget Injection on Android: No Root, 2 Methods](https://fadeevab.com/frida-gadget-injection-on-android-no-root-2-methods)
 - [How to Bypass Certificate Pinning with Frida on an Android App](https://blog.approov.io/how-to-bypass-certificate-pinning-with-frida-on-an-android-app)
 
 **Smali**
