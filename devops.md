@@ -15,6 +15,8 @@
 
 ## Linux administration
 
-## Docker-containers
+## Docker
+
+- [gitlab-ci-android](https://github.com/jangrewe/gitlab-ci-android) - GitLab CI image for building Android apps
 
 ## Testing farm
