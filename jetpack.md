@@ -5,7 +5,7 @@
 - [Datastore](#datastore)
 - [LiveData](#livedata)
 - [Navigation](#navigation)
-- [Paging library](#paging-library)
+- [Paging](#paging)
 - [ViewModel](#viewmodel)
 - [WorkManager](#workmanager)
 - [Room](#room)
@@ -39,6 +39,13 @@
 ## Paging library
 
 - [Paging library overview](https://developer.android.com/topic/libraries/architecture/paging)
+- [Paging 3 — Easier Way to Pagination](https://proandroiddev.com/paging-3-easier-way-to-pagination-part-1-584cad1f4f61)
+- [How to Use the Paging 3 Library in Android](https://proandroiddev.com/how-to-use-the-paging-3-library-in-android-5d128bb5b1d8)
+- [Paging 3 — Loading States, Separators, refresh(), retry()](https://proandroiddev.com/paging-3-loading-states-separators-refresh-retry-5b4c8fca936c)
+- [Fetching data and binding it to the UI in the MAD skills series](https://medium.com/androiddevelopers/fetching-data-and-binding-it-to-the-ui-in-the-mad-skills-series-cea89868b3e1)
+- [Going deeper, paging from network and database in the MAD skills series](https://medium.com/androiddevelopers/going-deeper-paging-from-network-and-database-in-the-mad-skills-series-9c98250b246b)
+- [CRUD operations with the new Android Paging v3](https://sourcediving.com/crud-operations-with-the-new-android-paging-v3-5bf55110aa4d)
+- [Pagination in Android with Paging 3, Retrofit and kotlin Flow](https://medium.com/nerd-for-tech/pagination-in-android-with-paging-3-retrofit-and-kotlin-flow-2c2454ff776e)
 
 ## Navigation
 
