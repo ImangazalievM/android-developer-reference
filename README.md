@@ -86,7 +86,7 @@
 - [Datastore](jetpack.md#datastore)
 - [LiveData](jetpack.md#livedata)
 - [Navigation](jetpack.md#navigation)
-- [Paging library](jetpack.md#paging-library)
+- [Paging y](jetpack.md#paging)
 - [ViewModel](jetpack.md#viewmodel)
 - [WorkManager](jetpack.md#workmanager)
 - [Room](jetpack.md#room)
