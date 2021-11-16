@@ -13,6 +13,9 @@ ___
 - [Kotlin Weekly](http://www.kotlinweekly.net)
 - [Dave Leeds on Kotlin](https://typealias.com)
 
+## Release updates
+- [Kotlin 1.6.0 Released](https://blog.jetbrains.com/kotlin/2021/11/kotlin-1-6-0-is-released/#language-features)
+
 ## Basics
 
 - [Zero-cost* abstractions in Kotlin](https://medium.com/androiddevelopers/zero-cost-abstractions-in-kotlin-19b953f3a936)
