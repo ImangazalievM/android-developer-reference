@@ -10,8 +10,9 @@
 - [Dynamic Feature Modules](#dynamic-feature-modules)
 - [Libraries development](#libraries-development)
 - [Reverse engineering](#reverse-engineering)
-
+___
 - [Become a Master Builder with these Android Dev Tools](https://medium.com/over-engineering/become-a-master-builder-with-these-android-dev-tools-1975a3cb6a6e)
+- [avocado](https://github.com/alexjlockwood/avocado) - Vector Drawable optimization tool
 
 ## Android Studio
 
