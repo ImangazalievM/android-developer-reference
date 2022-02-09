@@ -22,8 +22,6 @@
 - [Security](#security)
 ___
 
-- [8 Best Things for Android Development in 2020](https://vladsonkin.com/8-best-things-for-android-development-in-2020/)
-
 ## Activity & Intent
 
 - [Deep Dive into Activity Results API — No More onActivityResult()](https://android.jlelse.eu/activity-results-api-69be5a225e86)
