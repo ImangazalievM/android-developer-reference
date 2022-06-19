@@ -75,7 +75,7 @@ ___
 - [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 - [frida](https://github.com/frida/frida) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 
-***ADB***
+**ADB**
 - [Awesome ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md)
 
 **Frida**
